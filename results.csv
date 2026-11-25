@@ -1,0 +1,4 @@
+Method,Missed,False alarms,PR-AUC
+Baseline (latest risk >= 1e-6),3,56,0.392
+Baseline (latest risk >= 1e-4),52,5,0.392
+Our model (threshold 0.04),3,55,0.816

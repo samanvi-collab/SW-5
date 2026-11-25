@@ -1,0 +1,1793 @@
+event_id,toward_manoeuvre,toward_no_manoeuvre
+11191,c sigma r trend; miss distance,mahalanobis distance; latest reported risk
+11192,relative speed trend; c sigma r trend,mahalanobis distance; latest reported risk
+11193,max risk estimate; length of message history,latest reported risk; time of latest CDM
+11194,t position covariance det; relative speed,latest reported risk; mahalanobis distance
+11195,mahalanobis distance; t sigma r,latest reported risk; t sigma t
+11197,c sigma n; length of message history,relative speed; latest reported risk
+11198,max risk estimate; c sigma r trend,latest reported risk; t sigma n
+11199,highest risk seen; max risk estimate,mahalanobis distance; t sigma n trend
+11200,risk trend; mahalanobis distance trend,mahalanobis distance; latest reported risk
+11201,c sigma r; c sigma n,mahalanobis distance; latest reported risk
+11202,mahalanobis distance; t sigma r,t position covariance det; t sigma n trend
+11203,c sigma r; c sigma n,latest reported risk; relative speed
+11204,t position covariance det; mahalanobis distance,length of message history; t sigma n
+11205,t position covariance det; latest reported risk,time of latest CDM; t sigma n
+11206,mahalanobis distance; max risk estimate,length of message history; risk trend
+11207,relative speed; miss distance,latest reported risk; length of message history
+11208,latest reported risk; time of latest CDM,t sigma r trend; c sigma r trend
+11209,max risk estimate; t position covariance det,relative speed; mahalanobis distance
+11210,c sigma r trend; c sigma t trend,latest reported risk; mahalanobis distance
+11211,time of latest CDM; c sigma r,t sigma n trend; latest reported risk
+11212,c sigma r trend; relative speed,latest reported risk; risk trend
+11213,c sigma r; latest reported risk,t position covariance det; c sigma r trend
+11214,c sigma r trend; t position covariance det,latest reported risk; relative speed
+11216,mahalanobis distance; highest risk seen,time of latest CDM; t sigma t
+11217,time of latest CDM; max risk estimate,latest reported risk; mahalanobis distance
+11219,relative speed trend; miss distance,latest reported risk; last change in risk
+11220,latest reported risk; c sigma t trend,time of latest CDM; length of message history
+11223,c sigma r; t position covariance det,c sigma n; mahalanobis distance
+11224,latest reported risk; max risk estimate,time of latest CDM; t position covariance det
+11225,t position covariance det; c sigma r trend,latest reported risk; mahalanobis distance trend
+11226,c sigma r trend; t sigma n,latest reported risk; mahalanobis distance
+11227,t sigma n trend; c sigma n trend,time of latest CDM; mahalanobis distance
+11229,mahalanobis distance; t position covariance det,c sigma n; latest reported risk
+11230,latest reported risk; max risk estimate,time of latest CDM; c sigma r
+11231,c sigma r trend; time of latest CDM,latest reported risk; length of message history
+11232,mahalanobis distance; c sigma n trend,time of latest CDM; latest reported risk
+11233,mahalanobis distance; max risk scaling,time of latest CDM; latest reported risk
+11234,latest reported risk; max risk estimate,time of latest CDM; c sigma r trend
+11235,relative speed trend; time of latest CDM,mahalanobis distance; t sigma n trend
+11237,time of latest CDM; c sigma n,latest reported risk; length of message history
+11238,mahalanobis distance; time of latest CDM,risk trend; relative speed
+11239,mahalanobis distance; time of latest CDM,relative speed; length of message history
+11240,max risk estimate; mahalanobis distance,t sigma n; length of message history
+11241,mahalanobis distance; t position covariance det,length of message history; relative speed
+11242,latest reported risk; time of latest CDM,t position covariance det; t sigma t
+11243,c sigma t trend; length of message history,latest reported risk; max risk estimate
+11244,max risk estimate; time of latest CDM,mahalanobis distance; latest reported risk
+11245,t sigma r; highest risk seen,latest reported risk; mahalanobis distance
+11246,t sigma t trend; time of latest CDM,mahalanobis distance; latest reported risk
+11247,c sigma t; t position covariance det,t sigma n; c sigma n
+11248,relative speed trend; time of latest CDM,latest reported risk; length of message history
+11252,t position covariance det; relative speed,latest reported risk; mahalanobis distance
+11253,mahalanobis distance; max risk scaling,latest reported risk; t position covariance det
+11254,t position covariance det; time of latest CDM,latest reported risk; mahalanobis distance
+11255,c sigma r; mahalanobis distance,latest reported risk; t sigma t
+11256,t position covariance det; max risk estimate,t sigma n; miss distance trend
+11257,t position covariance det; c sigma r,latest reported risk; c sigma r trend
+11258,c sigma r; c sigma n,length of message history; latest reported risk
+11259,latest reported risk; c sigma r,length of message history; time of latest CDM
+11260,latest reported risk; max risk estimate,time of latest CDM; c position covariance det
+11262,mahalanobis distance; c sigma r trend,length of message history; relative speed
+11263,relative speed trend; mahalanobis distance,t sigma n; length of message history
+11264,mahalanobis distance; time of latest CDM,length of message history; c sigma r trend
+11265,max risk scaling; c sigma r,time of latest CDM; c sigma n trend
+11266,risk trend; c sigma r trend,mahalanobis distance; latest reported risk
+11268,mahalanobis distance; time of latest CDM,t sigma n trend; relative speed
+11269,max risk estimate; time of latest CDM,t sigma n trend; latest reported risk
+11271,relative speed; t position covariance det,length of message history; t sigma n
+11272,mahalanobis distance; length of message history,latest reported risk; t sigma t
+11273,c sigma r trend; mahalanobis distance,t sigma n; latest reported risk
+11274,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11275,mahalanobis distance; t position covariance det,length of message history; latest reported risk
+11276,mahalanobis distance; highest risk seen,time of latest CDM; c sigma r
+11277,max risk estimate; lowest risk seen,t sigma n; latest reported risk
+11279,length of message history; c sigma n,latest reported risk; t sigma t
+11280,mahalanobis distance; miss distance trend,c sigma n; latest reported risk
+11281,mahalanobis distance trend; relative speed,c sigma n; mahalanobis distance
+11282,c sigma r trend; mahalanobis distance,t position covariance det; c sigma n
+11283,mahalanobis distance; c sigma n,time of latest CDM; latest reported risk
+11284,c sigma r; c sigma n,latest reported risk; t sigma n
+11285,t sigma r; time of latest CDM,latest reported risk; mahalanobis distance
+11286,time of latest CDM; length of message history,latest reported risk; mahalanobis distance
+11287,mahalanobis distance; max risk scaling,time of latest CDM; latest reported risk
+11288,max risk scaling; c sigma r trend,time of latest CDM; c sigma n
+11289,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11290,latest reported risk; time of latest CDM,c sigma r trend; relative speed
+11291,t position covariance det; risk trend,length of message history; t sigma n
+11292,latest reported risk; time of latest CDM,mahalanobis distance; mahalanobis distance trend
+11293,c sigma t; c sigma r,latest reported risk; relative speed
+11294,time of latest CDM; relative speed,latest reported risk; length of message history
+11295,length of message history; risk trend,t sigma n; relative speed
+11296,relative speed; mahalanobis distance,t sigma n; length of message history
+11297,mahalanobis distance; c sigma t,time of latest CDM; latest reported risk
+11298,t position covariance det; c sigma r,latest reported risk; t sigma n
+11299,mahalanobis distance; mahalanobis distance trend,t sigma n trend; relative speed
+11300,mahalanobis distance; length of message history,t position covariance det; t sigma t
+11301,mahalanobis distance; relative speed,last change in risk; latest reported risk
+11302,c sigma r; c sigma n trend,time of latest CDM; mahalanobis distance
+11303,mahalanobis distance; mahalanobis distance trend,time of latest CDM; latest reported risk
+11304,latest reported risk; time of latest CDM,last change in risk; c position covariance det trend
+11305,mahalanobis distance; risk trend,t sigma n; length of message history
+11306,c position covariance det trend; t sigma r,t sigma n trend; latest reported risk
+11307,c sigma r; c sigma t,c sigma r trend; t sigma n
+11308,max risk scaling; c sigma t,time of latest CDM; mahalanobis distance
+11309,mahalanobis distance; length of message history,t sigma t; latest reported risk
+11310,relative speed; c sigma n,mahalanobis distance; t sigma n trend
+11311,c sigma r trend; c sigma t trend,latest reported risk; risk trend
+11312,mahalanobis distance; c sigma n,t position covariance det; t sigma t
+11313,max risk estimate; t sigma n,latest reported risk; risk trend
+11314,c sigma t; length of message history,c sigma n; t sigma t
+11315,length of message history; max risk scaling,c sigma n; mahalanobis distance
+11316,max risk estimate; risk trend,mahalanobis distance; latest reported risk
+11317,c sigma r trend; c sigma t trend,mahalanobis distance; latest reported risk
+11318,time of latest CDM; max risk estimate,length of message history; mahalanobis distance
+11319,mahalanobis distance; time of latest CDM,risk trend; length of message history
+11320,mahalanobis distance; max risk estimate,length of message history; relative speed
+11321,t position covariance det; c sigma n,relative speed; mahalanobis distance
+11322,c sigma n; length of message history,t sigma n trend; latest reported risk
+11323,time of latest CDM; latest reported risk,t sigma n; c sigma r trend
+11324,c sigma r trend; risk trend,mahalanobis distance; relative speed
+11325,c sigma n; c sigma r trend,t sigma n trend; latest reported risk
+11326,t sigma r; length of message history,t sigma n trend; latest reported risk
+11327,c sigma t; risk trend,time of latest CDM; latest reported risk
+11328,t position covariance det; mahalanobis distance trend,mahalanobis distance; latest reported risk
+11329,risk trend; c sigma n,latest reported risk; mahalanobis distance
+11330,c sigma r; t sigma r,time of latest CDM; latest reported risk
+11331,max risk estimate; c sigma t trend,mahalanobis distance; latest reported risk
+11332,max risk scaling; t sigma r,time of latest CDM; mahalanobis distance
+11333,length of message history; latest reported risk,t sigma n; relative speed
+11335,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+11336,time of latest CDM; length of message history,latest reported risk; c sigma r trend
+11337,relative speed; length of message history,latest reported risk; t sigma n
+11338,t position covariance det; c sigma r trend,latest reported risk; mahalanobis distance
+11339,c sigma r trend; c sigma t trend,mahalanobis distance; length of message history
+11340,c sigma r; max risk estimate,mahalanobis distance; t sigma n trend
+11341,time of latest CDM; t sigma r,length of message history; latest reported risk
+11342,latest reported risk; max risk scaling,mahalanobis distance; t sigma n
+11343,length of message history; c sigma r,mahalanobis distance; latest reported risk
+11344,mahalanobis distance trend; risk trend,c sigma n; mahalanobis distance
+11345,mahalanobis distance; time of latest CDM,c sigma n; latest reported risk
+11346,c sigma n; t sigma r,t sigma n trend; latest reported risk
+11347,t position covariance det; length of message history,latest reported risk; max risk estimate
+11348,t position covariance det; relative speed,latest reported risk; length of message history
+11349,risk trend; time of latest CDM,mahalanobis distance; relative speed
+11350,c sigma r; t position covariance det,latest reported risk; t sigma n
+11351,time of latest CDM; c sigma r,length of message history; latest reported risk
+11352,mahalanobis distance; max risk scaling,time of latest CDM; c sigma r trend
+11353,c sigma n; length of message history,t sigma n trend; t position covariance det trend
+11354,mahalanobis distance; max risk estimate,last change in risk; miss distance trend
+11355,mahalanobis distance; t sigma n,t sigma n trend; latest reported risk
+11356,mahalanobis distance; miss distance trend,time of latest CDM; latest reported risk
+11357,c sigma t; c sigma r,mahalanobis distance; latest reported risk
+11358,t position covariance det; relative speed,time of latest CDM; latest reported risk
+11359,relative speed trend; time of latest CDM,mahalanobis distance; latest reported risk
+11361,c sigma r trend; c sigma n,relative speed; latest reported risk
+11362,latest reported risk; lowest risk seen,time of latest CDM; length of message history
+11363,t position covariance det; risk trend,relative speed; length of message history
+11364,max risk estimate; risk trend,relative speed; latest reported risk
+11365,t position covariance det; relative speed trend,time of latest CDM; t sigma t
+11366,mahalanobis distance; time of latest CDM,length of message history; latest reported risk
+11367,mahalanobis distance; miss distance trend,latest reported risk; relative speed
+11368,c sigma t; c sigma r,length of message history; c sigma r trend
+11369,c sigma r trend; c sigma t trend,t position covariance det; latest reported risk
+11370,t position covariance det; max risk estimate,relative speed; latest reported risk
+11371,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11372,time of latest CDM; c sigma t trend,mahalanobis distance; latest reported risk
+11373,c sigma t trend; max risk estimate,latest reported risk; relative speed
+11374,mahalanobis distance; length of message history,t sigma r trend; latest reported risk
+11375,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+11376,time of latest CDM; c sigma r,mahalanobis distance; latest reported risk
+11377,latest reported risk; time of latest CDM,t sigma n; miss distance trend
+11378,mahalanobis distance; c sigma r,c sigma n; length of message history
+11379,mahalanobis distance; time of latest CDM,length of message history; c sigma n trend
+11380,relative speed; time of latest CDM,length of message history; latest reported risk
+11381,t position covariance det; t sigma t trend,latest reported risk; mahalanobis distance
+11382,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+11383,risk trend; time of latest CDM,latest reported risk; max risk estimate
+11384,max risk estimate; t position covariance det,t sigma n; mahalanobis distance
+11385,mahalanobis distance; time of latest CDM,c sigma n; relative speed
+11386,mahalanobis distance; max risk scaling,latest reported risk; t sigma t
+11387,mahalanobis distance; length of message history,t sigma n trend; latest reported risk
+11388,relative speed trend; t sigma n,mahalanobis distance; relative speed
+11389,c sigma n; mahalanobis distance trend,mahalanobis distance; latest reported risk
+11390,mahalanobis distance; max risk estimate,c sigma r trend; latest reported risk
+11391,c sigma r trend; risk trend,relative speed; latest reported risk
+11392,c sigma r trend; c sigma t trend,t position covariance det; latest reported risk
+11393,c sigma t; length of message history,c sigma n; t sigma t
+11394,mahalanobis distance; length of message history,max risk estimate; latest reported risk
+11395,t position covariance det; c sigma r trend,latest reported risk; risk trend
+11396,latest reported risk; max risk scaling,mahalanobis distance; c sigma r trend
+11397,risk trend; c sigma n,latest reported risk; mahalanobis distance
+11398,max risk scaling; t sigma n trend,time of latest CDM; mahalanobis distance
+11399,time of latest CDM; c sigma r,latest reported risk; relative speed
+11401,relative speed trend; c sigma n trend,time of latest CDM; latest reported risk
+11402,max risk estimate; relative speed,latest reported risk; risk trend
+11403,risk trend; c sigma r trend,mahalanobis distance; latest reported risk
+11404,mahalanobis distance; c sigma r,t sigma n; risk trend
+11405,max risk estimate; c sigma t trend,length of message history; t sigma n trend
+11406,mahalanobis distance; c sigma r,t sigma n; length of message history
+11407,max risk scaling; time of latest CDM,mahalanobis distance; relative speed
+11408,latest reported risk; c sigma r,time of latest CDM; length of message history
+11409,t sigma r; length of message history,time of latest CDM; latest reported risk
+11410,t sigma r; max risk scaling,time of latest CDM; t sigma n trend
+11411,c sigma r trend; time of latest CDM,latest reported risk; relative speed
+11412,max risk estimate; c sigma n,length of message history; latest reported risk
+11413,miss distance; c sigma r trend,mahalanobis distance; t sigma n trend
+11414,t position covariance det; mahalanobis distance trend,length of message history; c sigma r trend
+11415,mahalanobis distance; c sigma r trend,t sigma n trend; latest reported risk
+11416,relative speed; length of message history,latest reported risk; t sigma n
+11417,relative speed; max risk estimate,mahalanobis distance; latest reported risk
+11418,length of message history; c sigma n,latest reported risk; t sigma t
+11419,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+11420,t position covariance det; length of message history,t sigma n trend; latest reported risk
+11421,c sigma r trend; t sigma n trend,t position covariance det; latest reported risk
+11422,mahalanobis distance; length of message history,latest reported risk; max risk estimate
+11423,mahalanobis distance; c sigma t,latest reported risk; last change in risk
+11424,t position covariance det; relative speed,latest reported risk; risk trend
+11425,c sigma r; time of latest CDM,t sigma n trend; mahalanobis distance
+11426,relative speed trend; length of message history,c sigma n; latest reported risk
+11427,c sigma r; mahalanobis distance trend,mahalanobis distance; latest reported risk
+11429,latest reported risk; time of latest CDM,max risk scaling; c sigma n trend
+11430,c sigma r trend; miss distance,latest reported risk; risk trend
+11431,mahalanobis distance; max risk estimate,latest reported risk; c sigma r trend
+11432,latest reported risk; time of latest CDM,mahalanobis distance; c sigma r trend
+11433,c sigma r trend; miss distance,mahalanobis distance; latest reported risk
+11434,latest reported risk; max risk estimate,time of latest CDM; length of message history
+11435,mahalanobis distance; relative speed,time of latest CDM; t sigma n trend
+11436,mahalanobis distance; max risk estimate,latest reported risk; t sigma t
+11437,max risk estimate; mahalanobis distance,t sigma n; last change in risk
+11438,c sigma r; miss distance trend,latest reported risk; mahalanobis distance
+11441,t position covariance det; c sigma r trend,mahalanobis distance; latest reported risk
+11442,mahalanobis distance; time of latest CDM,length of message history; c sigma n
+11443,t sigma n; time of latest CDM,latest reported risk; length of message history
+11444,max risk scaling; length of message history,time of latest CDM; mahalanobis distance
+11445,relative speed; mahalanobis distance trend,mahalanobis distance; risk trend
+11446,mahalanobis distance; c sigma n,c sigma r trend; relative speed
+11447,latest reported risk; max risk scaling,time of latest CDM; mahalanobis distance
+11448,length of message history; relative speed trend,t position covariance det; latest reported risk
+11450,t position covariance det; c sigma n,latest reported risk; risk trend
+11451,latest reported risk; max risk scaling,time of latest CDM; mahalanobis distance
+11452,time of latest CDM; risk trend,length of message history; c sigma r trend
+11453,t position covariance det; c sigma r trend,mahalanobis distance; t sigma n trend
+11454,t sigma n; t sigma n trend,latest reported risk; time of latest CDM
+11455,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11456,relative speed; time of latest CDM,latest reported risk; mahalanobis distance
+11457,t sigma n; t position covariance det,latest reported risk; length of message history
+11458,max risk scaling; mahalanobis distance,time of latest CDM; c sigma n
+11459,c sigma r; c sigma r trend,mahalanobis distance; relative speed
+11460,t sigma t; time of latest CDM,mahalanobis distance; latest reported risk
+11461,relative speed; mahalanobis distance,t sigma n; latest reported risk
+11462,mahalanobis distance; c sigma t,time of latest CDM; c sigma n
+11463,miss distance; c sigma r trend,relative speed; mahalanobis distance
+11464,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11465,mahalanobis distance trend; c sigma r,time of latest CDM; mahalanobis distance
+11466,c sigma r; t sigma r,mahalanobis distance; t sigma n trend
+11467,mahalanobis distance; max risk estimate,t sigma n trend; t position covariance det trend
+11468,max risk estimate; c sigma r trend,latest reported risk; mahalanobis distance
+11469,t position covariance det; relative speed,latest reported risk; t sigma n
+11470,t position covariance det; c sigma r trend,mahalanobis distance; length of message history
+11471,time of latest CDM; latest reported risk,mahalanobis distance; c position covariance det
+11472,mahalanobis distance; risk trend,t position covariance det; t sigma t
+11474,t position covariance det; max risk scaling,t sigma n; mahalanobis distance
+11475,time of latest CDM; c sigma r,latest reported risk; c sigma r trend
+11476,c sigma r; c sigma r trend,mahalanobis distance; length of message history
+11477,time of latest CDM; length of message history,latest reported risk; risk trend
+11478,mahalanobis distance; t position covariance det,t sigma n; relative speed
+11479,max risk scaling; c sigma r,max risk estimate; t position covariance det
+11480,c sigma n; c sigma r trend,latest reported risk; risk trend
+11481,max risk estimate; relative speed,latest reported risk; length of message history
+11482,mahalanobis distance; max risk estimate,t sigma n; risk trend
+11483,mahalanobis distance; latest reported risk,max risk scaling; c position covariance det
+11484,c sigma t; max risk scaling,c sigma r trend; length of message history
+11485,mahalanobis distance; relative speed,length of message history; t sigma n trend
+11486,c sigma n; t sigma r,t position covariance det; t sigma t
+11487,mahalanobis distance; latest reported risk,t sigma n trend; relative speed
+11488,c sigma r; c sigma r trend,latest reported risk; t sigma n
+11489,mahalanobis distance; length of message history,t position covariance det; latest reported risk
+11490,time of latest CDM; t position covariance det,latest reported risk; mahalanobis distance
+11491,max risk scaling; mahalanobis distance,t position covariance det; latest reported risk
+11492,t sigma n trend; c position covariance det trend,latest reported risk; mahalanobis distance
+11493,relative speed trend; t position covariance det,mahalanobis distance; latest reported risk
+11494,c sigma n; t sigma r,t sigma n trend; latest reported risk
+11495,c sigma r; time of latest CDM,latest reported risk; length of message history
+11496,c sigma r; risk trend,length of message history; t sigma n
+11497,mahalanobis distance; time of latest CDM,length of message history; last change in risk
+11498,mahalanobis distance; time of latest CDM,t sigma n; c sigma n
+11499,time of latest CDM; risk trend,mahalanobis distance; t sigma n trend
+11500,t position covariance det; c sigma t trend,mahalanobis distance; relative speed
+11501,latest reported risk; time of latest CDM,t position covariance det; t sigma t
+11502,max risk estimate; mahalanobis distance,t sigma n; last change in risk
+11503,risk trend; t sigma t,time of latest CDM; mahalanobis distance
+11504,time of latest CDM; risk trend,latest reported risk; t sigma r trend
+11505,c sigma r trend; c sigma t trend,latest reported risk; risk trend
+11506,c sigma t; risk trend,mahalanobis distance; latest reported risk
+11507,time of latest CDM; t position covariance det,t sigma n; latest reported risk
+11508,c sigma r trend; time of latest CDM,length of message history; latest reported risk
+11509,c sigma r trend; time of latest CDM,latest reported risk; length of message history
+11510,mahalanobis distance; max risk scaling,t position covariance det; t sigma t
+11511,length of message history; max risk estimate,t sigma n; latest reported risk
+11512,time of latest CDM; t sigma n,latest reported risk; mahalanobis distance
+11513,c sigma n; max risk estimate,latest reported risk; length of message history
+11514,c sigma r; time of latest CDM,mahalanobis distance; relative speed
+11515,c sigma n; t position covariance det,length of message history; latest reported risk
+11516,max risk estimate; t sigma n trend,t sigma n; length of message history
+11517,c sigma r trend; c sigma t trend,mahalanobis distance; relative speed
+11518,latest reported risk; mahalanobis distance,c sigma r trend; time of latest CDM
+11519,latest reported risk; mahalanobis distance,c sigma n; c sigma r trend
+11520,max risk estimate; relative speed,mahalanobis distance; latest reported risk
+11521,c sigma t; mahalanobis distance,c sigma n; length of message history
+11522,c sigma r; risk trend,mahalanobis distance; t sigma t
+11523,length of message history; risk trend,latest reported risk; mahalanobis distance
+11525,latest reported risk; length of message history,t sigma n; miss distance trend
+11526,c sigma r trend; miss distance,mahalanobis distance; latest reported risk
+11527,mahalanobis distance; length of message history,t sigma n trend; latest reported risk
+11528,c sigma r; time of latest CDM,mahalanobis distance; t sigma n trend
+11529,latest reported risk; time of latest CDM,t position covariance det; t sigma n trend
+11530,latest reported risk; max risk scaling,t sigma r trend; c sigma n
+11531,latest reported risk; mahalanobis distance,c sigma r trend; relative speed
+11532,max risk scaling; c sigma t,time of latest CDM; c sigma n
+11534,max risk estimate; c sigma r trend,mahalanobis distance; latest reported risk
+11535,mahalanobis distance; max risk estimate,t sigma n trend; relative speed
+11537,mahalanobis distance; mahalanobis distance trend,length of message history; risk trend
+11538,time of latest CDM; c sigma r,latest reported risk; length of message history
+11540,t sigma r; time of latest CDM,latest reported risk; max risk estimate
+11541,t sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11542,latest reported risk; max risk estimate,relative speed; t sigma n
+11543,latest reported risk; c sigma r,time of latest CDM; mahalanobis distance
+11544,mahalanobis distance; time of latest CDM,relative speed; c sigma n trend
+11545,t position covariance det; length of message history,latest reported risk; mahalanobis distance
+11546,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+11547,c sigma n; t sigma r,mahalanobis distance; latest reported risk
+11548,latest reported risk; max risk estimate,time of latest CDM; c sigma r
+11550,latest reported risk; c sigma r trend,t sigma n; relative speed
+11551,max risk estimate; time of latest CDM,length of message history; latest reported risk
+11552,t sigma t; c sigma r,time of latest CDM; latest reported risk
+11553,relative speed trend; t sigma n trend,mahalanobis distance; latest reported risk
+11554,relative speed; mahalanobis distance,time of latest CDM; latest reported risk
+11555,c sigma n; c sigma r trend,latest reported risk; relative speed
+11556,time of latest CDM; risk trend,latest reported risk; c sigma r trend
+11557,miss distance trend; length of message history,t position covariance det; latest reported risk
+11558,max risk scaling; t sigma r,time of latest CDM; latest reported risk
+11559,c sigma r; mahalanobis distance trend,time of latest CDM; mahalanobis distance
+11560,time of latest CDM; c sigma r trend,mahalanobis distance; latest reported risk
+11561,c sigma r trend; t sigma n,mahalanobis distance; length of message history
+11562,c sigma n; mahalanobis distance trend,length of message history; mahalanobis distance
+11563,mahalanobis distance; latest reported risk,length of message history; relative speed
+11564,t position covariance det; time of latest CDM,mahalanobis distance; latest reported risk
+11565,mahalanobis distance; max risk estimate,latest reported risk; t sigma t
+11569,length of message history; c sigma n,latest reported risk; t position covariance det trend
+11570,length of message history; risk trend,time of latest CDM; latest reported risk
+11571,mahalanobis distance; time of latest CDM,t sigma n; length of message history
+11572,max risk estimate; t sigma n,time of latest CDM; latest reported risk
+11573,latest reported risk; max risk estimate,time of latest CDM; c sigma r
+11574,latest reported risk; time of latest CDM,mahalanobis distance; relative speed
+11576,max risk scaling; mahalanobis distance,time of latest CDM; c sigma n
+11577,c sigma r trend; time of latest CDM,latest reported risk; length of message history
+11578,mahalanobis distance; c sigma r,c sigma n; length of message history
+11580,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+11581,mahalanobis distance; max risk scaling,time of latest CDM; c sigma n trend
+11582,highest risk seen; max risk estimate,mahalanobis distance; time of latest CDM
+11583,mahalanobis distance; risk trend,relative speed; max risk estimate trend
+11584,length of message history; c sigma n,latest reported risk; t sigma t
+11585,mahalanobis distance; t sigma r,t position covariance det; latest reported risk
+11586,c sigma t; c sigma r,t position covariance det; length of message history
+11587,t position covariance det; c sigma r,latest reported risk; risk trend
+11588,mahalanobis distance; max risk estimate,length of message history; c sigma r trend
+11589,c sigma t; max risk scaling,mahalanobis distance; latest reported risk
+11590,mahalanobis distance; c sigma t,c sigma n; t sigma n trend
+11591,relative speed trend; length of message history,t sigma n trend; latest reported risk
+11592,mahalanobis distance; mahalanobis distance trend,length of message history; relative speed
+11593,time of latest CDM; t sigma n,mahalanobis distance; latest reported risk
+11594,c sigma t; length of message history,latest reported risk; c sigma r
+11595,mahalanobis distance; length of message history,t sigma t; latest reported risk
+11596,c sigma r; c sigma t,mahalanobis distance; latest reported risk
+11597,latest reported risk; mahalanobis distance,t sigma r; c sigma r trend
+11598,latest reported risk; max risk scaling,relative speed; last change in risk
+11599,risk trend; t position covariance det,latest reported risk; t sigma n
+11600,mahalanobis distance; time of latest CDM,length of message history; last change in risk
+11601,c sigma r; mahalanobis distance trend,mahalanobis distance; latest reported risk
+11602,c sigma t; c sigma r,c sigma n; latest reported risk
+11603,t position covariance det; c sigma r trend,latest reported risk; length of message history
+11604,c sigma r trend; c sigma t trend,mahalanobis distance; latest reported risk
+11605,t position covariance det; max risk estimate,time of latest CDM; t sigma n trend
+11606,mahalanobis distance; time of latest CDM,length of message history; risk trend
+11607,c sigma t; t position covariance det,t sigma n; length of message history
+11608,time of latest CDM; max risk estimate,t sigma n trend; t position covariance det trend
+11609,mahalanobis distance; t sigma n,relative speed; latest reported risk
+11610,relative speed trend; c sigma r,latest reported risk; mahalanobis distance
+11611,max risk scaling; c sigma t,c position covariance det trend; c sigma r trend
+11612,mahalanobis distance; t position covariance det,length of message history; c sigma r trend
+11613,mahalanobis distance; c sigma n,t position covariance det; t sigma t
+11614,c sigma r trend; miss distance,t sigma n trend; latest reported risk
+11615,max risk estimate; c sigma r trend,mahalanobis distance; latest reported risk
+11616,mahalanobis distance; t sigma n,length of message history; latest reported risk
+11617,c sigma n; t sigma r,mahalanobis distance; latest reported risk
+11618,length of message history; c sigma r,time of latest CDM; latest reported risk
+11619,mahalanobis distance; highest risk seen,latest reported risk; t sigma n trend
+11620,c sigma n; max risk estimate,t position covariance det; latest reported risk
+11621,t position covariance det; risk trend,latest reported risk; mahalanobis distance
+11622,mahalanobis distance; risk trend,length of message history; latest reported risk
+11623,mahalanobis distance; time of latest CDM,t position covariance det trend; risk trend
+11624,mahalanobis distance; c sigma n,length of message history; risk trend
+11625,c sigma r trend; c sigma n,latest reported risk; length of message history
+11626,mahalanobis distance; c sigma r,length of message history; latest reported risk
+11627,t position covariance det; c sigma r trend,latest reported risk; length of message history
+11628,risk trend; c sigma n,latest reported risk; mahalanobis distance
+11629,mahalanobis distance trend; t sigma n trend,time of latest CDM; mahalanobis distance
+11630,mahalanobis distance; max risk scaling,last change in risk; t position covariance det
+11631,mahalanobis distance; max risk estimate,t sigma n trend; latest reported risk
+11632,highest risk seen; t sigma r,mahalanobis distance; latest reported risk
+11633,c sigma n; length of message history,mahalanobis distance; t sigma n trend
+11634,max risk estimate; relative speed,mahalanobis distance; t position covariance det trend
+11635,t position covariance det; time of latest CDM,length of message history; c sigma r trend
+11636,mahalanobis distance; c sigma t,t sigma n; t sigma n trend
+11637,mahalanobis distance; time of latest CDM,last change in risk; latest reported risk
+11638,c sigma r; mahalanobis distance,t position covariance det; t sigma t
+11640,time of latest CDM; t sigma n trend,mahalanobis distance; latest reported risk
+11641,mahalanobis distance; c sigma r,latest reported risk; risk trend
+11642,latest reported risk; c sigma r,mahalanobis distance; t sigma n trend
+11643,relative speed; c sigma r trend,mahalanobis distance; latest reported risk
+11644,relative speed trend; time of latest CDM,mahalanobis distance; t sigma r trend
+11645,latest reported risk; mahalanobis distance,time of latest CDM; t sigma n trend
+11646,time of latest CDM; length of message history,mahalanobis distance; latest reported risk
+11647,mahalanobis distance; t sigma n trend,t position covariance det; t sigma t
+11648,risk trend; t sigma r,mahalanobis distance; t sigma n trend
+11649,mahalanobis distance; t sigma r,latest reported risk; t sigma t
+11650,mahalanobis distance; max risk estimate,latest reported risk; t sigma t
+11652,length of message history; max risk estimate,latest reported risk; mahalanobis distance
+11653,c sigma r; c sigma t,mahalanobis distance; c position covariance det trend
+11654,t position covariance det; t sigma n,c sigma r trend; latest reported risk
+11655,mahalanobis distance; c sigma t,latest reported risk; max risk scaling
+11656,c sigma r; time of latest CDM,latest reported risk; t sigma n
+11657,c sigma n; c sigma r trend,mahalanobis distance; latest reported risk
+11658,mahalanobis distance; c sigma t,latest reported risk; time of latest CDM
+11659,mahalanobis distance; t sigma r,t position covariance det; latest reported risk
+11660,mahalanobis distance; relative speed trend,t position covariance det; t sigma t
+11661,max risk estimate; relative speed,length of message history; latest reported risk
+11662,max risk scaling; relative speed trend,t position covariance det; length of message history
+11663,latest reported risk; time of latest CDM,c sigma r; c sigma r trend
+11664,mahalanobis distance; max risk estimate,t sigma t; latest reported risk
+11665,time of latest CDM; relative speed,t sigma n trend; latest reported risk
+11666,mahalanobis distance; max risk estimate,risk trend; length of message history
+11667,mahalanobis distance; c sigma t,latest reported risk; t position covariance det
+11668,mahalanobis distance; max risk estimate,latest reported risk; t sigma t
+11669,max risk estimate; t sigma r,t sigma n trend; mahalanobis distance
+11670,max risk estimate; time of latest CDM,mahalanobis distance; latest reported risk
+11671,mahalanobis distance; c sigma r,latest reported risk; relative speed
+11672,t position covariance det; mahalanobis distance trend,mahalanobis distance; latest reported risk
+11674,latest reported risk; mahalanobis distance,length of message history; relative speed
+11675,t position covariance det; t sigma t trend,mahalanobis distance; latest reported risk
+11676,c sigma t; time of latest CDM,c sigma n; length of message history
+11677,c sigma r trend; c sigma t trend,mahalanobis distance; latest reported risk
+11678,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+11679,c sigma r; c sigma r trend,latest reported risk; t sigma n
+11681,c sigma t; mahalanobis distance,c sigma n; t sigma t
+11682,latest reported risk; time of latest CDM,relative speed trend; c sigma r
+11683,c sigma r; max risk estimate,latest reported risk; risk trend
+11684,t position covariance det; c sigma r trend,risk trend; latest reported risk
+11685,c sigma n; length of message history,mahalanobis distance; t sigma n trend
+11686,latest reported risk; max risk estimate,c sigma r; time of latest CDM
+11687,t position covariance det; c sigma r trend,relative speed; latest reported risk
+11688,max risk estimate; c sigma r trend,t sigma n; latest reported risk
+11689,mahalanobis distance; max risk scaling,c sigma n; time of latest CDM
+11690,c sigma n; t position covariance det,relative speed; latest reported risk
+11691,t position covariance det; c sigma r trend,latest reported risk; length of message history
+11692,latest reported risk; length of message history,time of latest CDM; t sigma n trend
+11693,c sigma t; c sigma r,time of latest CDM; mahalanobis distance
+11694,max risk estimate; relative speed,latest reported risk; risk trend
+11695,mahalanobis distance; relative speed trend,t sigma n; latest reported risk
+11696,relative speed; t position covariance det,mahalanobis distance; latest reported risk
+11697,c sigma r; time of latest CDM,length of message history; c sigma r trend
+11699,mahalanobis distance; t sigma r,latest reported risk; max risk estimate trend
+11700,t position covariance det; c sigma t,length of message history; c sigma r trend
+11701,max risk estimate; risk trend,latest reported risk; time of latest CDM
+11702,mahalanobis distance; max risk scaling,latest reported risk; t position covariance det
+11703,length of message history; c sigma r trend,latest reported risk; mahalanobis distance
+11704,highest risk seen; mahalanobis distance,t sigma n trend; latest reported risk
+11705,mahalanobis distance; miss distance trend,c sigma n; t sigma n trend
+11706,mahalanobis distance; max risk estimate,t sigma t; latest reported risk
+11707,c sigma r; mahalanobis distance,t position covariance det; t sigma t
+11708,risk trend; mahalanobis distance trend,mahalanobis distance; t sigma n trend
+11709,t position covariance det; c sigma n,t sigma n trend; mahalanobis distance
+11710,relative speed; time of latest CDM,mahalanobis distance; latest reported risk
+11711,c sigma t; c sigma r,time of latest CDM; latest reported risk
+11712,latest reported risk; max risk estimate,last change in risk; c sigma r
+11713,mahalanobis distance; length of message history,latest reported risk; t sigma t
+11714,c sigma r trend; t sigma n,relative speed; latest reported risk
+11715,t position covariance det; c sigma r,latest reported risk; mahalanobis distance
+11716,t sigma r; c sigma n,mahalanobis distance; latest reported risk
+11717,c sigma r; c sigma n,length of message history; latest reported risk
+11718,c sigma n; c sigma r trend,latest reported risk; mahalanobis distance
+11719,relative speed trend; length of message history,t sigma n trend; c sigma r trend
+11720,c sigma r trend; t position covariance det,latest reported risk; relative speed
+11721,mahalanobis distance; max risk scaling,latest reported risk; max risk estimate
+11722,t position covariance det; c sigma r trend,relative speed; latest reported risk
+11723,t position covariance det; mahalanobis distance trend,t sigma n; latest reported risk
+11724,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11725,miss distance; t position covariance det,latest reported risk; length of message history
+11726,time of latest CDM; risk trend,t sigma n trend; latest reported risk
+11727,length of message history; time of latest CDM,mahalanobis distance; t sigma n trend
+11729,max risk scaling; highest risk seen,mahalanobis distance; c sigma n trend
+11730,mahalanobis distance; length of message history,latest reported risk; c sigma r
+11731,mahalanobis distance; risk trend,length of message history; c sigma n trend
+11732,mahalanobis distance; c sigma n,latest reported risk; t sigma t
+11733,t sigma n trend; length of message history,relative speed; latest reported risk
+11734,c sigma r; length of message history,mahalanobis distance; latest reported risk
+11736,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11737,c sigma n; t sigma t,mahalanobis distance; t position covariance det trend
+11738,mahalanobis distance; max risk estimate,c sigma n; latest reported risk
+11739,mahalanobis distance; time of latest CDM,t sigma n; length of message history
+11740,t sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11741,latest reported risk; time of latest CDM,relative speed trend; t sigma n trend
+11742,t position covariance det; relative speed trend,latest reported risk; length of message history
+11743,miss distance trend; time of latest CDM,mahalanobis distance; relative speed
+11744,t sigma n trend; c sigma r trend,latest reported risk; mahalanobis distance
+11745,t position covariance det; t sigma n trend,latest reported risk; t sigma n
+11746,c sigma r trend; c sigma t trend,mahalanobis distance; length of message history
+11747,mahalanobis distance; t position covariance det,risk trend; length of message history
+11748,time of latest CDM; c sigma r trend,mahalanobis distance; latest reported risk
+11749,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+11750,mahalanobis distance; c sigma n,length of message history; latest reported risk
+11751,t sigma n; relative speed trend,mahalanobis distance; t sigma n trend
+11752,max risk scaling; mahalanobis distance,time of latest CDM; c sigma n
+11753,latest reported risk; t position covariance det,length of message history; c sigma r trend
+11754,risk trend; relative speed trend,t sigma n trend; latest reported risk
+11756,max risk estimate; t position covariance det,mahalanobis distance; latest reported risk
+11757,max risk estimate; t sigma n trend,time of latest CDM; latest reported risk
+11758,mahalanobis distance; max risk estimate,time of latest CDM; latest reported risk
+11759,relative speed; relative speed trend,mahalanobis distance; t sigma n trend
+11760,risk trend; mahalanobis distance trend,latest reported risk; mahalanobis distance
+11761,length of message history; c sigma n,latest reported risk; t sigma t
+11762,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11763,length of message history; time of latest CDM,mahalanobis distance; latest reported risk
+11764,c sigma n; length of message history,mahalanobis distance; t sigma n trend
+11765,c sigma r trend; c sigma n,latest reported risk; risk trend
+11766,max risk scaling; mahalanobis distance,c sigma n; time of latest CDM
+11768,mahalanobis distance; c sigma t,t position covariance det; t sigma t
+11769,relative speed trend; time of latest CDM,t sigma r trend; t sigma n trend
+11771,c sigma r trend; t sigma t,mahalanobis distance; latest reported risk
+11772,c sigma n; relative speed,latest reported risk; length of message history
+11773,length of message history; c sigma n,latest reported risk; t sigma t
+11774,relative speed; max risk estimate,latest reported risk; mahalanobis distance
+11775,c sigma r; c sigma n,t sigma n trend; latest reported risk
+11776,max risk scaling; time of latest CDM,mahalanobis distance; relative speed
+11777,mahalanobis distance; time of latest CDM,length of message history; latest reported risk
+11778,max risk scaling; mahalanobis distance,c sigma n; latest reported risk
+11779,c sigma n; c sigma r trend,mahalanobis distance; latest reported risk
+11780,mahalanobis distance; length of message history,c sigma r trend; max risk estimate
+11781,t sigma n trend; length of message history,time of latest CDM; mahalanobis distance
+11782,mahalanobis distance; t sigma t,length of message history; latest reported risk
+11783,max risk estimate; risk trend,t sigma n; t position covariance det
+11784,c sigma r trend; c sigma t trend,latest reported risk; mahalanobis distance
+11785,t position covariance det; t sigma n trend,mahalanobis distance; latest reported risk
+11786,length of message history; c sigma r trend,relative speed; latest reported risk
+11787,max risk estimate; t sigma n trend,mahalanobis distance; relative speed
+11789,risk trend; c position covariance det trend,mahalanobis distance; latest reported risk
+11790,c sigma r trend; relative speed,t sigma n trend; latest reported risk
+11791,relative speed; length of message history,latest reported risk; mahalanobis distance
+11792,c sigma r; length of message history,t sigma n trend; mahalanobis distance
+11793,mahalanobis distance trend; time of latest CDM,mahalanobis distance; latest reported risk
+11794,t position covariance det; c sigma r,length of message history; relative speed
+11795,mahalanobis distance; length of message history,t position covariance det; relative speed
+11796,time of latest CDM; c sigma r trend,mahalanobis distance; latest reported risk
+11797,c sigma r trend; time of latest CDM,latest reported risk; risk trend
+11798,t position covariance det; c sigma t trend,latest reported risk; risk trend
+11799,t position covariance det; miss distance,t sigma n trend; c sigma r trend
+11800,time of latest CDM; t sigma n trend,latest reported risk; length of message history
+11801,latest reported risk; max risk estimate,time of latest CDM; t sigma t trend
+11802,c sigma t; c sigma r,time of latest CDM; mahalanobis distance
+11803,length of message history; c sigma n,latest reported risk; t sigma t
+11804,time of latest CDM; max risk estimate,relative speed; latest reported risk
+11805,t position covariance det; relative speed,latest reported risk; t sigma n
+11806,time of latest CDM; relative speed,latest reported risk; c sigma r trend
+11807,c sigma r trend; t sigma n trend,mahalanobis distance; latest reported risk
+11808,c sigma r; t position covariance det,latest reported risk; mahalanobis distance
+11809,max risk scaling; mahalanobis distance,c sigma n; latest reported risk
+11810,relative speed trend; time of latest CDM,t sigma n trend; latest reported risk
+11811,c sigma t; risk trend,time of latest CDM; mahalanobis distance
+11812,max risk estimate; relative speed trend,time of latest CDM; latest reported risk
+11813,length of message history; time of latest CDM,latest reported risk; last change in risk
+11816,c sigma r; miss distance trend,mahalanobis distance; latest reported risk
+11817,max risk estimate; t sigma t,time of latest CDM; mahalanobis distance
+11819,risk trend; t position covariance det,relative speed; length of message history
+11820,latest reported risk; time of latest CDM,t sigma t; c sigma r
+11821,c sigma r; t sigma n,mahalanobis distance; latest reported risk
+11822,mahalanobis distance; c sigma r,c sigma n; latest reported risk
+11823,relative speed; c sigma r,c sigma n; mahalanobis distance
+11824,t position covariance det; c sigma t trend,latest reported risk; c sigma r trend
+11825,c sigma t; mahalanobis distance,c sigma n; length of message history
+11826,t position covariance det; c sigma r trend,latest reported risk; length of message history
+11827,t sigma n trend; c sigma r,t position covariance det; c sigma n
+11828,mahalanobis distance; max risk estimate,t sigma n trend; risk trend
+11829,time of latest CDM; relative speed,mahalanobis distance; latest reported risk
+11830,mahalanobis distance; t position covariance det,relative speed; latest reported risk
+11832,t position covariance det; c sigma r trend,mahalanobis distance; latest reported risk
+11833,mahalanobis distance; t sigma n,c sigma n; relative speed
+11834,mahalanobis distance; c sigma t,latest reported risk; c sigma n trend
+11835,t position covariance det; time of latest CDM,latest reported risk; length of message history
+11836,t position covariance det; c sigma r trend,latest reported risk; length of message history
+11837,c sigma t; c sigma r,time of latest CDM; mahalanobis distance
+11838,c sigma r trend; c sigma n,mahalanobis distance; latest reported risk
+11839,mahalanobis distance; c sigma t,time of latest CDM; t sigma n
+11840,miss distance trend; time of latest CDM,mahalanobis distance; t sigma n trend
+11842,c sigma r trend; time of latest CDM,mahalanobis distance; latest reported risk
+11843,relative speed; t sigma n,mahalanobis distance; latest reported risk
+11844,relative speed; c sigma t trend,mahalanobis distance; latest reported risk
+11845,time of latest CDM; max risk estimate,latest reported risk; risk trend
+11846,latest reported risk; length of message history,last change in risk; time of latest CDM
+11847,max risk scaling; t sigma n trend,time of latest CDM; mahalanobis distance
+11848,mahalanobis distance; length of message history,t sigma n trend; relative speed
+11849,t position covariance det; c sigma t trend,latest reported risk; mahalanobis distance
+11850,c sigma r; t sigma n,latest reported risk; mahalanobis distance
+11851,latest reported risk; max risk estimate,length of message history; c sigma r trend
+11852,t sigma n; risk trend,t sigma n trend; latest reported risk
+11853,mahalanobis distance; max risk estimate,t sigma t; latest reported risk
+11854,c sigma n; t sigma n trend,latest reported risk; mahalanobis distance
+11856,relative speed trend; t sigma t,time of latest CDM; mahalanobis distance
+11857,time of latest CDM; c sigma t,latest reported risk; risk trend
+11858,c sigma r; mahalanobis distance,t position covariance det; t sigma t
+11860,length of message history; max risk estimate,latest reported risk; mahalanobis distance
+11861,c sigma r trend; t sigma n trend,latest reported risk; length of message history
+11862,mahalanobis distance; max risk scaling,time of latest CDM; latest reported risk
+11863,mahalanobis distance; max risk estimate,length of message history; relative speed
+11864,mahalanobis distance; miss distance trend,time of latest CDM; t sigma n trend
+11865,t position covariance det; time of latest CDM,latest reported risk; length of message history
+11866,time of latest CDM; t position covariance det,relative speed; latest reported risk
+11867,relative speed; t position covariance det,mahalanobis distance; t sigma n trend
+11868,t position covariance det; time of latest CDM,latest reported risk; risk trend
+11869,mahalanobis distance; max risk estimate,length of message history; c sigma r trend
+11870,length of message history; c sigma r trend,t sigma n trend; mahalanobis distance
+11871,t sigma r; length of message history,t sigma n trend; mahalanobis distance
+11872,max risk estimate; length of message history,t sigma n trend; mahalanobis distance
+11873,mahalanobis distance; time of latest CDM,latest reported risk; t sigma t
+11874,c sigma r; mahalanobis distance,t position covariance det; t sigma t
+11875,relative speed; max risk estimate,latest reported risk; risk trend
+11876,latest reported risk; mahalanobis distance,time of latest CDM; c sigma n
+11877,max risk estimate; risk trend,t sigma n; t position covariance det
+11878,max risk estimate; relative speed,length of message history; c sigma r trend
+11879,t position covariance det; mahalanobis distance trend,relative speed; mahalanobis distance
+11880,latest reported risk; max risk scaling,t sigma n; miss distance trend
+11882,max risk estimate; c sigma r trend,mahalanobis distance; latest reported risk
+11883,mahalanobis distance; t position covariance det,relative speed; length of message history
+11884,t position covariance det; max risk estimate,c sigma r trend; mahalanobis distance
+11885,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+11886,mahalanobis distance; t sigma r,latest reported risk; t sigma t
+11887,relative speed; c sigma r,c sigma n; mahalanobis distance
+11888,t position covariance det; relative speed,mahalanobis distance; t sigma n
+11889,c sigma r; risk trend,mahalanobis distance; c sigma n
+11890,t position covariance det; c sigma r trend,latest reported risk; relative speed
+11891,mahalanobis distance; mahalanobis distance trend,length of message history; risk trend
+11892,time of latest CDM; length of message history,mahalanobis distance; latest reported risk
+11894,latest reported risk; lowest risk seen,t sigma n; relative speed trend
+11895,c sigma r; t position covariance det,latest reported risk; mahalanobis distance
+11896,c sigma r trend; length of message history,mahalanobis distance; latest reported risk
+11897,t sigma r; t sigma n trend,mahalanobis distance; c sigma n
+11898,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+11899,c sigma n; c sigma r trend,mahalanobis distance; latest reported risk
+11900,mahalanobis distance; t sigma n,latest reported risk; relative speed
+11901,max risk estimate; t position covariance det,mahalanobis distance; latest reported risk
+11902,t sigma n trend; t sigma r,mahalanobis distance; latest reported risk
+11903,c sigma t; t position covariance det,t sigma n; c sigma n
+11904,mahalanobis distance; length of message history,t sigma n trend; latest reported risk
+11905,mahalanobis distance; c sigma t,latest reported risk; t position covariance det
+11906,c sigma r; time of latest CDM,mahalanobis distance; c sigma n
+11907,c sigma t trend; c sigma r trend,mahalanobis distance; latest reported risk
+11908,c sigma t; max risk scaling,c sigma n; length of message history
+11909,length of message history; t sigma r,t position covariance det; t sigma n trend
+11910,c sigma r trend; relative speed,mahalanobis distance; t sigma n trend
+11912,mahalanobis distance; t sigma n,c sigma n; relative speed
+11913,mahalanobis distance; c sigma t,latest reported risk; relative speed trend
+11914,c sigma t; time of latest CDM,mahalanobis distance; t position covariance det
+11915,latest reported risk; time of latest CDM,lowest risk seen; mahalanobis distance
+11916,c sigma t; mahalanobis distance,c sigma n; t sigma t
+11918,mahalanobis distance; t position covariance det,length of message history; relative speed
+11919,mahalanobis distance trend; length of message history,mahalanobis distance; latest reported risk
+11920,max risk scaling; c sigma n trend,time of latest CDM; mahalanobis distance
+11921,c sigma t trend; max risk estimate,mahalanobis distance; c sigma r trend
+11923,mahalanobis distance; c sigma t,c sigma n; t sigma n
+11924,c sigma r; t position covariance det,t sigma n trend; latest reported risk
+11925,max risk scaling; c sigma r,mahalanobis distance; max risk estimate
+11926,risk trend; time of latest CDM,length of message history; latest reported risk
+11927,mahalanobis distance; c sigma r,relative speed; latest reported risk
+11928,c sigma t; risk trend,c sigma n; t sigma n
+11930,max risk estimate; risk trend,mahalanobis distance; relative speed
+11931,max risk estimate; t position covariance det,relative speed; length of message history
+11932,c sigma r trend; time of latest CDM,latest reported risk; length of message history
+11933,mahalanobis distance; max risk estimate,t sigma n; risk trend
+11934,c sigma r trend; time of latest CDM,mahalanobis distance; latest reported risk
+11935,time of latest CDM; risk trend,latest reported risk; mahalanobis distance
+11936,c sigma n; t sigma n trend,latest reported risk; mahalanobis distance
+11937,time of latest CDM; relative speed trend,latest reported risk; c sigma r
+11938,max risk estimate; c sigma n,latest reported risk; risk trend
+11939,c sigma t; risk trend,time of latest CDM; mahalanobis distance
+11940,c sigma r trend; length of message history,mahalanobis distance; t sigma n trend
+11941,t position covariance det; relative speed trend,c sigma r trend; length of message history
+11942,relative speed; c sigma n,latest reported risk; length of message history
+11943,max risk estimate; time of latest CDM,mahalanobis distance; c sigma r trend
+11944,c sigma r trend; t sigma n trend,relative speed; mahalanobis distance
+11945,risk trend; mahalanobis distance,t sigma n; length of message history
+11947,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+11948,relative speed trend; time of latest CDM,t sigma n trend; latest reported risk
+11949,mahalanobis distance; t sigma r,latest reported risk; t sigma t
+11950,mahalanobis distance; max risk estimate,relative speed; length of message history
+11952,t position covariance det; time of latest CDM,mahalanobis distance; c sigma r trend
+11953,latest reported risk; average risk,length of message history; time of latest CDM
+11954,mahalanobis distance; max risk estimate,t sigma n trend; latest reported risk
+11955,mahalanobis distance; t sigma r,latest reported risk; relative speed
+11956,time of latest CDM; t sigma n trend,latest reported risk; c sigma r trend
+11958,latest reported risk; c sigma r,t sigma n trend; relative speed
+11959,c sigma r; time of latest CDM,latest reported risk; t sigma r trend
+11960,latest reported risk; max risk scaling,c sigma t trend; time of latest CDM
+11961,max risk estimate; c sigma r trend,mahalanobis distance; latest reported risk
+11962,t position covariance det; c sigma t trend,latest reported risk; c sigma r trend
+11963,mahalanobis distance; relative speed,t sigma n; length of message history
+11964,length of message history; c sigma r trend,mahalanobis distance; latest reported risk
+11965,relative speed trend; t position covariance det,c sigma n; length of message history
+11966,c sigma t; mahalanobis distance,t position covariance det trend; latest reported risk
+11967,t position covariance det; time of latest CDM,latest reported risk; t sigma n
+11969,c sigma n; time of latest CDM,latest reported risk; mahalanobis distance
+11970,c sigma n; t position covariance det,t sigma n trend; t position covariance det trend
+11971,c sigma r; relative speed,length of message history; latest reported risk
+11972,miss distance trend; length of message history,relative speed; risk trend
+11973,t sigma r; t sigma n trend,t position covariance det; mahalanobis distance
+11974,time of latest CDM; c sigma t,c sigma r trend; relative speed trend
+11975,latest reported risk; mahalanobis distance,length of message history; time of latest CDM
+11976,max risk estimate; relative speed,t position covariance det; latest reported risk
+11977,time of latest CDM; c sigma r,mahalanobis distance; latest reported risk
+11978,mahalanobis distance; max risk estimate,latest reported risk; relative speed
+11979,latest reported risk; highest risk seen,t sigma n; last change in risk
+11980,t sigma r; c sigma t,c sigma r trend; miss distance trend
+11981,t sigma n trend; miss distance trend,mahalanobis distance; length of message history
+11982,c sigma n; relative speed,time of latest CDM; latest reported risk
+11983,time of latest CDM; c sigma t,length of message history; latest reported risk
+11985,mahalanobis distance; t sigma r,latest reported risk; t sigma t
+11986,t sigma n trend; c sigma r,time of latest CDM; mahalanobis distance
+11987,latest reported risk; risk trend,c sigma r trend; t sigma n
+11988,time of latest CDM; latest reported risk,mahalanobis distance; relative speed
+11989,max risk scaling; relative speed trend,time of latest CDM; mahalanobis distance
+11990,c sigma t; mahalanobis distance,c sigma n; latest reported risk
+11991,t sigma n; length of message history,time of latest CDM; mahalanobis distance
+11993,mahalanobis distance; mahalanobis distance trend,relative speed; max risk scaling
+11994,latest reported risk; max risk scaling,t sigma n trend; miss distance trend
+11995,mahalanobis distance; t position covariance det,length of message history; latest reported risk
+11996,max risk estimate; time of latest CDM,mahalanobis distance; latest reported risk
+11997,max risk scaling; mahalanobis distance,time of latest CDM; c sigma n
+11998,mahalanobis distance; max risk estimate,t position covariance det trend; length of message history
+11999,t position covariance det; t sigma n trend,time of latest CDM; latest reported risk
+12000,mahalanobis distance; c sigma n,time of latest CDM; latest reported risk
+12001,c sigma r trend; c sigma t trend,mahalanobis distance; latest reported risk
+12002,mahalanobis distance; max risk scaling,time of latest CDM; t position covariance det
+12003,time of latest CDM; c sigma r trend,mahalanobis distance; latest reported risk
+12004,max risk scaling; mahalanobis distance,latest reported risk; t position covariance det
+12005,miss distance trend; mahalanobis distance,c sigma n; latest reported risk
+12006,t sigma r; length of message history,latest reported risk; mahalanobis distance
+12007,mahalanobis distance; c sigma t,c sigma n; latest reported risk
+12008,t position covariance det; mahalanobis distance trend,length of message history; mahalanobis distance
+12009,relative speed; t position covariance det,length of message history; latest reported risk
+12010,risk trend; time of latest CDM,relative speed; mahalanobis distance
+12011,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12012,c sigma t; mahalanobis distance,c sigma n; length of message history
+12013,c sigma r; mahalanobis distance trend,t sigma n; length of message history
+12014,latest reported risk; mahalanobis distance,c sigma n; max risk estimate
+12015,mahalanobis distance; t sigma t,length of message history; relative speed
+12016,c sigma r; c sigma n,c sigma r trend; latest reported risk
+12017,c sigma r; relative speed,t sigma n; length of message history
+12018,latest reported risk; time of latest CDM,last change in risk; t sigma n trend
+12019,latest reported risk; mahalanobis distance,t sigma n trend; c sigma r trend
+12020,c sigma n; c sigma r trend,mahalanobis distance; latest reported risk
+12021,length of message history; c sigma t,time of latest CDM; latest reported risk
+12022,t position covariance det; mahalanobis distance trend,mahalanobis distance; relative speed
+12023,mahalanobis distance; c sigma t,c sigma n; t sigma r trend
+12024,time of latest CDM; risk trend,mahalanobis distance; c sigma r trend
+12025,time of latest CDM; c sigma t,latest reported risk; mahalanobis distance
+12026,max risk estimate; relative speed,mahalanobis distance; latest reported risk
+12027,length of message history; relative speed,latest reported risk; c position covariance det
+12029,latest reported risk; time of latest CDM,length of message history; c sigma r trend
+12030,relative speed trend; c sigma r trend,mahalanobis distance; t sigma n trend
+12032,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12033,relative speed; max risk estimate,length of message history; latest reported risk
+12034,t sigma r; c sigma t trend,mahalanobis distance; latest reported risk
+12036,c sigma n; c sigma r trend,length of message history; latest reported risk
+12037,c sigma t trend; relative speed trend,latest reported risk; mahalanobis distance
+12038,mahalanobis distance; max risk estimate,t sigma t; t position covariance det
+12039,risk trend; length of message history,t sigma n trend; mahalanobis distance
+12040,t position covariance det; max risk estimate,latest reported risk; risk trend
+12041,latest reported risk; length of message history,t position covariance det; t sigma t
+12042,latest reported risk; max risk scaling,t position covariance det; mahalanobis distance
+12043,latest reported risk; length of message history,c sigma r; c sigma t trend
+12044,c sigma r; c sigma t,time of latest CDM; latest reported risk
+12045,t position covariance det; c sigma r trend,latest reported risk; risk trend
+12046,c sigma t; length of message history,relative speed; latest reported risk
+12047,mahalanobis distance; max risk estimate,time of latest CDM; latest reported risk
+12048,c sigma r; t position covariance det,length of message history; latest reported risk
+12049,c sigma t; c sigma r,mahalanobis distance; latest reported risk
+12050,c sigma r; c sigma t,latest reported risk; max risk estimate
+12051,latest reported risk; mahalanobis distance,c sigma r trend; c sigma r
+12052,t sigma r; length of message history,mahalanobis distance; latest reported risk
+12053,mahalanobis distance; length of message history,latest reported risk; max risk estimate
+12054,length of message history; risk trend,mahalanobis distance; latest reported risk
+12055,latest reported risk; max risk scaling,c sigma n; c sigma r trend
+12056,relative speed trend; c sigma r,relative speed; latest reported risk
+12057,length of message history; t position covariance det,latest reported risk; c sigma t trend
+12058,c sigma t; risk trend,time of latest CDM; t sigma n trend
+12059,time of latest CDM; c sigma r,mahalanobis distance; latest reported risk
+12060,t sigma n; time of latest CDM,length of message history; latest reported risk
+12061,latest reported risk; time of latest CDM,t sigma n trend; t sigma r trend
+12062,t position covariance det; c sigma r,latest reported risk; mahalanobis distance
+12063,length of message history; mahalanobis distance,c sigma n; c sigma r trend
+12064,max risk estimate; mahalanobis distance,t sigma n trend; time of latest CDM
+12066,mahalanobis distance; t sigma r,latest reported risk; t position covariance det
+12067,mahalanobis distance; max risk scaling,time of latest CDM; c sigma n
+12068,c sigma r; c sigma t,c sigma n; mahalanobis distance
+12070,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+12071,mahalanobis distance; t sigma r,t sigma n trend; c sigma r trend
+12072,latest reported risk; max risk scaling,time of latest CDM; c sigma r
+12073,c sigma r; length of message history,latest reported risk; mahalanobis distance
+12074,relative speed; c sigma r trend,latest reported risk; mahalanobis distance
+12075,mahalanobis distance; length of message history,latest reported risk; t sigma t
+12076,t position covariance det; relative speed,latest reported risk; risk trend
+12077,latest reported risk; mahalanobis distance,time of latest CDM; length of message history
+12078,t sigma n trend; length of message history,time of latest CDM; latest reported risk
+12079,t position covariance det; c sigma r trend,relative speed; latest reported risk
+12080,c sigma n; time of latest CDM,latest reported risk; risk trend
+12081,mahalanobis distance; c sigma r trend,length of message history; relative speed
+12082,c sigma t; max risk scaling,time of latest CDM; mahalanobis distance
+12083,c sigma n; c sigma r trend,mahalanobis distance; latest reported risk
+12084,t position covariance det; c sigma r,latest reported risk; relative speed
+12085,risk trend; t position covariance det,mahalanobis distance; c sigma r trend
+12086,mahalanobis distance; c sigma n,latest reported risk; miss distance
+12087,mahalanobis distance; max risk scaling,time of latest CDM; latest reported risk
+12088,relative speed trend; relative speed,latest reported risk; mahalanobis distance
+12089,relative speed trend; t position covariance det,latest reported risk; mahalanobis distance
+12090,mahalanobis distance; max risk scaling,t position covariance det; t sigma t
+12091,c sigma r trend; c sigma t trend,latest reported risk; risk trend
+12092,latest reported risk; length of message history,c sigma r; lowest risk seen
+12093,mahalanobis distance; max risk estimate,relative speed; max risk estimate trend
+12094,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12095,time of latest CDM; mahalanobis distance trend,latest reported risk; c sigma r trend
+12096,t sigma n; max risk estimate,risk trend; latest reported risk
+12097,time of latest CDM; max risk estimate,mahalanobis distance; latest reported risk
+12098,length of message history; t sigma t,time of latest CDM; t sigma n trend
+12099,c sigma r trend; c sigma n,mahalanobis distance; latest reported risk
+12100,latest reported risk; max risk scaling,time of latest CDM; length of message history
+12101,time of latest CDM; risk trend,t sigma n trend; latest reported risk
+12103,c sigma t; mahalanobis distance,c sigma n; latest reported risk
+12104,mahalanobis distance; max risk scaling,time of latest CDM; t sigma n trend
+12105,max risk estimate; c sigma n,mahalanobis distance; length of message history
+12106,relative speed trend; c sigma t,t sigma n; t position covariance det
+12107,mahalanobis distance; max risk estimate,t sigma n trend; c sigma n trend
+12108,t position covariance det; max risk estimate,latest reported risk; risk trend
+12109,t position covariance det; time of latest CDM,latest reported risk; c sigma r trend
+12110,mahalanobis distance; t sigma n,latest reported risk; max risk estimate
+12111,t position covariance det; c sigma t,mahalanobis distance; latest reported risk
+12112,time of latest CDM; risk trend,relative speed; latest reported risk
+12114,t sigma n trend; highest risk seen,latest reported risk; length of message history
+12115,time of latest CDM; relative speed,t sigma n trend; latest reported risk
+12116,miss distance trend; max risk scaling,c sigma n; t sigma t
+12117,t sigma n trend; c sigma r,time of latest CDM; mahalanobis distance
+12118,c sigma t; length of message history,c sigma n; t sigma t
+12119,time of latest CDM; relative speed trend,mahalanobis distance; latest reported risk
+12120,c sigma r trend; t position covariance det,latest reported risk; relative speed
+12121,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+12122,c sigma t; c sigma r,mahalanobis distance; latest reported risk
+12123,time of latest CDM; mahalanobis distance trend,latest reported risk; length of message history
+12124,c sigma n; t sigma r,mahalanobis distance; latest reported risk
+12126,t position covariance det; max risk estimate,latest reported risk; length of message history
+12128,relative speed; max risk estimate,t sigma n; length of message history
+12129,c sigma r trend; t position covariance det,latest reported risk; risk trend
+12130,latest reported risk; c sigma t,time of latest CDM; lowest risk seen
+12131,c sigma n; t sigma r,latest reported risk; mahalanobis distance
+12132,t sigma n; c sigma r trend,latest reported risk; risk trend
+12133,t position covariance det; c sigma r trend,mahalanobis distance; latest reported risk
+12134,mahalanobis distance; length of message history,time of latest CDM; max risk estimate
+12135,latest reported risk; time of latest CDM,t position covariance det; t sigma n trend
+12136,t position covariance det; relative speed,length of message history; latest reported risk
+12137,relative speed; t position covariance det,latest reported risk; mahalanobis distance
+12138,max risk estimate; mahalanobis distance,length of message history; c sigma r trend
+12139,t position covariance det; c sigma r trend,mahalanobis distance; latest reported risk
+12140,c sigma t; time of latest CDM,c sigma n; length of message history
+12141,latest reported risk; max risk scaling,time of latest CDM; c sigma n trend
+12142,mahalanobis distance; c sigma t,latest reported risk; t position covariance det
+12145,relative speed trend; max risk estimate,t position covariance det; latest reported risk
+12147,latest reported risk; max risk estimate,time of latest CDM; length of message history
+12148,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12149,t position covariance det; time of latest CDM,latest reported risk; mahalanobis distance
+12150,t position covariance det; c sigma r,mahalanobis distance; latest reported risk
+12151,c sigma r; relative speed,mahalanobis distance; latest reported risk
+12152,time of latest CDM; risk trend,c sigma n; mahalanobis distance
+12153,max risk scaling; c sigma t,max risk estimate; mahalanobis distance trend
+12154,t position covariance det; t sigma n trend,relative speed; latest reported risk
+12155,latest reported risk; max risk scaling,time of latest CDM; t sigma t
+12157,max risk estimate; mahalanobis distance,length of message history; relative speed
+12158,latest reported risk; t position covariance det,length of message history; c sigma r trend
+12159,length of message history; c sigma r,time of latest CDM; latest reported risk
+12160,mahalanobis distance; length of message history,latest reported risk; t sigma t
+12162,mahalanobis distance; c sigma t,length of message history; relative speed
+12163,mahalanobis distance; length of message history,time of latest CDM; max risk scaling
+12164,c sigma t; t sigma n trend,latest reported risk; t sigma n
+12165,max risk scaling; length of message history,time of latest CDM; mahalanobis distance
+12166,t position covariance det; risk trend,mahalanobis distance; latest reported risk
+12167,c sigma t; t sigma n,time of latest CDM; mahalanobis distance
+12168,mahalanobis distance; t sigma n,time of latest CDM; latest reported risk
+12169,mahalanobis distance; miss distance trend,time of latest CDM; latest reported risk
+12170,c sigma r trend; time of latest CDM,latest reported risk; mahalanobis distance
+12171,relative speed; t sigma r,time of latest CDM; mahalanobis distance
+12173,t position covariance det; miss distance,latest reported risk; risk trend
+12174,max risk scaling; c sigma t,mahalanobis distance; time of latest CDM
+12175,latest reported risk; time of latest CDM,mahalanobis distance; relative speed
+12176,mahalanobis distance; max risk estimate,length of message history; latest reported risk
+12177,mahalanobis distance; t sigma r,t position covariance det trend; t sigma r trend
+12178,relative speed; c sigma r trend,mahalanobis distance; latest reported risk
+12179,t position covariance det; length of message history,mahalanobis distance; relative speed
+12180,max risk estimate; risk trend,length of message history; latest reported risk
+12181,mahalanobis distance; length of message history,latest reported risk; last change in risk
+12182,time of latest CDM; risk trend,mahalanobis distance; latest reported risk
+12183,c sigma r; c sigma t,latest reported risk; max risk estimate
+12184,time of latest CDM; t position covariance det,latest reported risk; risk trend
+12185,latest reported risk; relative speed,mahalanobis distance; c sigma r trend
+12186,c sigma n; t sigma n trend,time of latest CDM; latest reported risk
+12187,c sigma t; c sigma r,latest reported risk; mahalanobis distance
+12188,max risk estimate; mahalanobis distance,t sigma n trend; t position covariance det trend
+12189,t position covariance det; c sigma r trend,latest reported risk; risk trend
+12190,time of latest CDM; max risk estimate,t sigma n trend; latest reported risk
+12191,c sigma t trend; max risk estimate,length of message history; latest reported risk
+12192,t position covariance det; time of latest CDM,latest reported risk; relative speed
+12193,t sigma n trend; risk trend,time of latest CDM; mahalanobis distance
+12194,t position covariance det; time of latest CDM,mahalanobis distance; latest reported risk
+12195,t sigma n trend; c position covariance det trend,mahalanobis distance; time of latest CDM
+12196,time of latest CDM; max risk estimate,mahalanobis distance; latest reported risk
+12197,time of latest CDM; relative speed,latest reported risk; mahalanobis distance
+12198,max risk estimate; relative speed,length of message history; latest reported risk
+12200,mahalanobis distance; length of message history,time of latest CDM; c sigma n trend
+12202,latest reported risk; time of latest CDM,t sigma n trend; mahalanobis distance
+12203,length of message history; c sigma t trend,mahalanobis distance; t sigma n trend
+12204,relative speed; t sigma n,latest reported risk; mahalanobis distance
+12205,time of latest CDM; mahalanobis distance trend,latest reported risk; mahalanobis distance
+12207,mahalanobis distance; max risk estimate,t sigma t; latest reported risk
+12208,t position covariance det; time of latest CDM,latest reported risk; t sigma r trend
+12209,relative speed; t position covariance det,latest reported risk; t sigma n
+12210,c sigma t; mahalanobis distance,c sigma n; latest reported risk
+12211,max risk estimate; t position covariance det,mahalanobis distance; c sigma r trend
+12213,t position covariance det; t sigma n,t sigma n trend; latest reported risk
+12215,c sigma t trend; time of latest CDM,latest reported risk; relative speed
+12216,relative speed; t position covariance det,mahalanobis distance; latest reported risk
+12217,mahalanobis distance; mahalanobis distance trend,relative speed; latest reported risk
+12218,latest reported risk; time of latest CDM,c sigma r trend; relative speed
+12219,mahalanobis distance; relative speed,length of message history; latest reported risk
+12220,max risk estimate; c sigma n,mahalanobis distance; latest reported risk
+12221,time of latest CDM; miss distance,relative speed; latest reported risk
+12223,c sigma n; length of message history,mahalanobis distance; t sigma n trend
+12224,latest reported risk; max risk estimate,time of latest CDM; mahalanobis distance
+12225,c sigma r; c sigma t,mahalanobis distance; t sigma n trend
+12226,latest reported risk; lowest risk seen,time of latest CDM; number of CDMs
+12227,relative speed; c sigma r,latest reported risk; mahalanobis distance
+12228,relative speed trend; t sigma n,latest reported risk; max risk estimate
+12229,c sigma t; c sigma r,latest reported risk; mahalanobis distance
+12230,t position covariance det; c sigma r trend,mahalanobis distance; latest reported risk
+12231,mahalanobis distance; c sigma r,time of latest CDM; latest reported risk
+12232,risk trend; t position covariance det,mahalanobis distance; relative speed
+12233,t sigma n; time of latest CDM,latest reported risk; risk trend
+12234,length of message history; risk trend,t sigma n; latest reported risk
+12235,c sigma t; t position covariance det,t sigma n; c sigma n
+12236,mahalanobis distance; max risk scaling,c sigma n; t sigma t
+12237,c sigma n; t sigma r,latest reported risk; time of latest CDM
+12238,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12239,c sigma t; length of message history,time of latest CDM; latest reported risk
+12240,latest reported risk; t position covariance det,time of latest CDM; t sigma t
+12241,c sigma r; c sigma r trend,latest reported risk; length of message history
+12242,c sigma r; time of latest CDM,t sigma n trend; latest reported risk
+12243,mahalanobis distance; max risk estimate,t position covariance det; t sigma t
+12244,length of message history; risk trend,t sigma n trend; t position covariance det
+12245,t position covariance det; miss distance,t sigma n; latest reported risk
+12246,mahalanobis distance; time of latest CDM,latest reported risk; t sigma t
+12248,time of latest CDM; t sigma n,mahalanobis distance; t sigma n trend
+12249,mahalanobis distance; c sigma n,time of latest CDM; latest reported risk
+12250,mahalanobis distance; time of latest CDM,c sigma n; length of message history
+12251,length of message history; c sigma r,time of latest CDM; latest reported risk
+12252,mahalanobis distance; max risk estimate,latest reported risk; t sigma t
+12253,mahalanobis distance; max risk estimate,latest reported risk; t sigma t
+12254,max risk estimate; c sigma t trend,mahalanobis distance; latest reported risk
+12255,time of latest CDM; relative speed,t sigma n; latest reported risk
+12256,max risk scaling; c sigma t,mahalanobis distance; c sigma r trend
+12257,mahalanobis distance; length of message history,latest reported risk; t sigma t
+12258,mahalanobis distance; max risk estimate,t sigma n; max risk scaling
+12259,relative speed; c sigma r,length of message history; latest reported risk
+12260,time of latest CDM; max risk estimate,t position covariance det; latest reported risk
+12261,relative speed trend; t sigma n trend,length of message history; mahalanobis distance
+12262,latest reported risk; max risk scaling,mahalanobis distance; c sigma r trend
+12263,mahalanobis distance trend; time of latest CDM,t sigma n trend; c sigma r trend
+12264,t position covariance det; time of latest CDM,t sigma n trend; latest reported risk
+12265,relative speed trend; t position covariance det,latest reported risk; t sigma n
+12266,c sigma r trend; t position covariance det,latest reported risk; t sigma n
+12267,c sigma t; risk trend,c sigma n; t sigma n
+12268,mahalanobis distance; length of message history,time of latest CDM; t sigma t
+12269,latest reported risk; max risk estimate,time of latest CDM; t sigma n trend
+12270,mahalanobis distance; latest reported risk,c sigma r trend; length of message history
+12271,mahalanobis distance; time of latest CDM,length of message history; c sigma r trend
+12272,mahalanobis distance; length of message history,t sigma n; latest reported risk
+12273,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12274,c sigma r trend; time of latest CDM,t sigma n trend; length of message history
+12276,relative speed; c sigma n,latest reported risk; length of message history
+12277,latest reported risk; time of latest CDM,mahalanobis distance; relative speed trend
+12278,max risk scaling; c sigma t,mahalanobis distance; c sigma r trend
+12279,time of latest CDM; length of message history,t sigma n trend; latest reported risk
+12280,mahalanobis distance; t sigma n,c sigma r trend; max risk estimate
+12281,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12282,c sigma t; max risk scaling,c sigma n; t sigma n
+12283,c sigma r trend; max risk estimate,mahalanobis distance; t sigma t
+12284,c sigma n; t sigma r,latest reported risk; mahalanobis distance
+12286,c sigma n; t sigma r,mahalanobis distance; latest reported risk
+12287,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12289,mahalanobis distance; c sigma n,t sigma n; length of message history
+12290,relative speed; t position covariance det,latest reported risk; t sigma n
+12291,mahalanobis distance; highest risk seen,time of latest CDM; latest reported risk
+12292,c sigma n; c sigma r,t sigma n trend; mahalanobis distance
+12293,t position covariance det; c sigma r,c sigma r trend; latest reported risk
+12294,max risk scaling; c sigma t,max risk estimate; mahalanobis distance trend
+12295,c sigma r trend; time of latest CDM,t sigma n trend; latest reported risk
+12296,mahalanobis distance; c sigma t,t sigma n; latest reported risk
+12297,c sigma r trend; t position covariance det,length of message history; latest reported risk
+12298,t position covariance det; relative speed,mahalanobis distance; latest reported risk
+12299,c sigma r; relative speed trend,time of latest CDM; mahalanobis distance
+12300,mahalanobis distance; c sigma r trend,t sigma n trend; latest reported risk
+12301,latest reported risk; max risk estimate,time of latest CDM; c sigma r
+12302,max risk estimate; c sigma n,t sigma n trend; mahalanobis distance
+12303,mahalanobis distance; time of latest CDM,c sigma n; length of message history
+12304,c sigma t trend; t position covariance det,relative speed; latest reported risk
+12305,c sigma r; risk trend,mahalanobis distance; latest reported risk
+12306,mahalanobis distance; max risk estimate,length of message history; latest reported risk
+12307,c sigma r trend; miss distance,latest reported risk; t position covariance det
+12308,mahalanobis distance; miss distance trend,time of latest CDM; latest reported risk
+12309,c sigma r trend; t sigma n trend,latest reported risk; mahalanobis distance
+12310,t sigma n; risk trend,time of latest CDM; latest reported risk
+12311,latest reported risk; time of latest CDM,c sigma n; c sigma n trend
+12312,t position covariance det; relative speed,latest reported risk; mahalanobis distance
+12313,miss distance trend; risk trend,t sigma n trend; mahalanobis distance
+12314,t position covariance det; c sigma t trend,c sigma r trend; relative speed
+12315,max risk estimate; relative speed,t position covariance det; mahalanobis distance
+12316,mahalanobis distance; t sigma n trend,latest reported risk; t sigma t
+12317,c sigma t; c sigma r,time of latest CDM; mahalanobis distance
+12319,length of message history; c sigma n,latest reported risk; relative speed
+12320,mahalanobis distance; t sigma r,latest reported risk; t sigma r trend
+12321,max risk scaling; mahalanobis distance,t position covariance det; t sigma t
+12322,latest reported risk; time of latest CDM,c sigma n trend; c sigma r trend
+12323,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12324,c sigma r trend; t position covariance det,t sigma n; latest reported risk
+12325,t sigma r; c sigma n,t sigma n trend; latest reported risk
+12327,t sigma n trend; max risk estimate,latest reported risk; mahalanobis distance
+12328,max risk estimate; t position covariance det,latest reported risk; length of message history
+12330,c sigma r trend; max risk estimate,latest reported risk; mahalanobis distance
+12331,t position covariance det; max risk estimate,c sigma r trend; latest reported risk
+12332,relative speed; max risk estimate,t position covariance det; latest reported risk
+12333,c sigma r trend; t position covariance det,mahalanobis distance; latest reported risk
+12334,time of latest CDM; t position covariance det,t sigma n trend; latest reported risk
+12335,relative speed trend; risk trend,time of latest CDM; latest reported risk
+12336,t position covariance det; t sigma n trend,t sigma n; mahalanobis distance
+12337,t position covariance det; relative speed,latest reported risk; risk trend
+12338,t sigma r; c sigma r trend,latest reported risk; risk trend
+12339,c sigma r; relative speed,latest reported risk; length of message history
+12340,relative speed trend; t position covariance det,t sigma n trend; latest reported risk
+12341,t position covariance det; c sigma r,mahalanobis distance; latest reported risk
+12342,t position covariance det; max risk estimate,length of message history; c sigma r trend
+12343,latest reported risk; time of latest CDM,c sigma r; max risk scaling
+12344,length of message history; time of latest CDM,latest reported risk; risk trend
+12345,mahalanobis distance; relative speed trend,time of latest CDM; latest reported risk
+12346,latest reported risk; c sigma t,time of latest CDM; t position covariance det
+12347,risk trend; time of latest CDM,mahalanobis distance; latest reported risk
+12348,t position covariance det; risk trend,t sigma n trend; latest reported risk
+12349,relative speed trend; c sigma n trend,c sigma n; time of latest CDM
+12350,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+12351,mahalanobis distance; length of message history,relative speed; c position covariance det
+12352,mahalanobis distance; relative speed trend,t position covariance det; t sigma n trend
+12353,relative speed trend; c sigma t trend,t sigma n trend; mahalanobis distance
+12354,t position covariance det; relative speed trend,t sigma n trend; latest reported risk
+12355,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12356,c sigma r trend; c sigma r,latest reported risk; length of message history
+12357,max risk estimate; c sigma t trend,latest reported risk; t sigma n
+12358,t position covariance det; c sigma r trend,latest reported risk; mahalanobis distance
+12359,risk trend; mahalanobis distance trend,latest reported risk; mahalanobis distance
+12360,mahalanobis distance; time of latest CDM,c sigma n trend; latest reported risk
+12361,length of message history; t sigma n trend,time of latest CDM; mahalanobis distance
+12362,mahalanobis distance; c sigma t,c sigma n; latest reported risk
+12363,mahalanobis distance; max risk scaling,t position covariance det; t sigma t
+12364,max risk estimate; t position covariance det,length of message history; c sigma r trend
+12365,max risk estimate; mahalanobis distance,t sigma n trend; risk trend
+12366,max risk estimate; c sigma t trend,mahalanobis distance; latest reported risk
+12367,mahalanobis distance; length of message history,c sigma n; latest reported risk
+12368,t position covariance det; c sigma r trend,latest reported risk; relative speed
+12369,latest reported risk; c sigma r,time of latest CDM; lowest risk seen
+12370,mahalanobis distance; miss distance trend,time of latest CDM; latest reported risk
+12371,c sigma r; c sigma t,latest reported risk; length of message history
+12372,miss distance trend; c sigma t,time of latest CDM; t sigma n trend
+12373,mahalanobis distance; latest reported risk,length of message history; relative speed
+12374,mahalanobis distance; max risk scaling,time of latest CDM; c sigma n
+12375,latest reported risk; time of latest CDM,mahalanobis distance; relative speed
+12376,max risk scaling; mahalanobis distance,t position covariance det; t sigma t
+12377,relative speed trend; time of latest CDM,t position covariance det; latest reported risk
+12378,highest risk seen; t sigma r,mahalanobis distance; latest reported risk
+12381,c sigma r trend; c sigma t trend,mahalanobis distance; t sigma n trend
+12382,relative speed trend; length of message history,time of latest CDM; latest reported risk
+12383,c sigma r; time of latest CDM,latest reported risk; mahalanobis distance
+12385,time of latest CDM; max risk estimate,latest reported risk; mahalanobis distance
+12386,relative speed; c sigma n,latest reported risk; length of message history
+12387,latest reported risk; c sigma r,time of latest CDM; length of message history
+12388,c sigma r; relative speed,latest reported risk; risk trend
+12389,max risk estimate; mahalanobis distance,t sigma n; relative speed
+12391,latest reported risk; max risk estimate,time of latest CDM; length of message history
+12392,max risk scaling; c sigma r,mahalanobis distance; latest reported risk
+12393,risk trend; relative speed trend,t sigma n; latest reported risk
+12394,relative speed; t position covariance det,latest reported risk; risk trend
+12395,c sigma t; t sigma n trend,time of latest CDM; latest reported risk
+12396,relative speed; c sigma t trend,mahalanobis distance; latest reported risk
+12397,max risk scaling; c sigma t,time of latest CDM; mahalanobis distance
+12398,max risk scaling; c sigma n trend,time of latest CDM; mahalanobis distance
+12399,c sigma n; t position covariance det,mahalanobis distance; latest reported risk
+12400,max risk scaling; t sigma n trend,latest reported risk; time of latest CDM
+12401,max risk scaling; t position covariance det,time of latest CDM; mahalanobis distance
+12402,mahalanobis distance; c sigma n trend,length of message history; risk trend
+12403,c sigma r; c sigma n,length of message history; c sigma r trend
+12404,mahalanobis distance; length of message history,t sigma r trend; latest reported risk
+12405,relative speed; time of latest CDM,mahalanobis distance; t sigma n trend
+12408,c sigma r trend; time of latest CDM,latest reported risk; risk trend
+12409,c sigma t; c sigma n,t position covariance det; mahalanobis distance
+12410,length of message history; t sigma t,time of latest CDM; latest reported risk
+12411,mahalanobis distance trend; time of latest CDM,t sigma n trend; relative speed
+12412,t position covariance det; c sigma r trend,latest reported risk; length of message history
+12413,time of latest CDM; c sigma r,latest reported risk; mahalanobis distance
+12414,t sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+12415,mahalanobis distance; miss distance trend,latest reported risk; t position covariance det
+12416,length of message history; t sigma r,time of latest CDM; latest reported risk
+12417,length of message history; time of latest CDM,t sigma n trend; mahalanobis distance
+12418,risk trend; t sigma n,relative speed; latest reported risk
+12419,relative speed trend; c sigma r trend,length of message history; t sigma n trend
+12422,c sigma r; c sigma n,t sigma n trend; latest reported risk
+12423,c sigma t; mahalanobis distance,c sigma n; latest reported risk
+12424,mahalanobis distance; length of message history,t sigma n; latest reported risk
+12425,c sigma r trend; miss distance,t sigma n trend; latest reported risk
+12426,t position covariance det; t sigma n,mahalanobis distance; relative speed
+12427,mahalanobis distance; max risk estimate,t sigma t; latest reported risk
+12428,t position covariance det; c sigma r trend,latest reported risk; mahalanobis distance
+12429,c sigma r trend; c sigma n,t position covariance det; t sigma n trend
+12430,t position covariance det; c sigma r trend,latest reported risk; length of message history
+12431,c sigma r; mahalanobis distance,t position covariance det; t sigma t
+12433,mahalanobis distance; max risk estimate,risk trend; latest reported risk
+12435,t position covariance det; c sigma r trend,relative speed; latest reported risk
+12436,time of latest CDM; relative speed trend,latest reported risk; mahalanobis distance
+12437,time of latest CDM; t position covariance det,mahalanobis distance; latest reported risk
+12438,c sigma r; max risk estimate,mahalanobis distance; t sigma n trend
+12440,mahalanobis distance; c sigma r trend,t sigma t; t sigma n trend
+12441,mahalanobis distance; c sigma n,length of message history; latest reported risk
+12443,t position covariance det; c sigma r trend,t sigma n trend; mahalanobis distance
+12444,c sigma n; length of message history,latest reported risk; last change in risk
+12445,time of latest CDM; mahalanobis distance trend,c sigma n; mahalanobis distance
+12446,length of message history; t sigma n trend,time of latest CDM; latest reported risk
+12448,mahalanobis distance; length of message history,t sigma n trend; relative speed
+12450,c sigma n; length of message history,mahalanobis distance; t sigma n trend
+12451,relative speed; t position covariance det,latest reported risk; length of message history
+12452,max risk scaling; latest reported risk,t sigma n; relative speed trend
+12453,time of latest CDM; relative speed,length of message history; t sigma n
+12454,relative speed; c sigma r,mahalanobis distance; c sigma r trend
+12455,mahalanobis distance; length of message history,latest reported risk; last change in risk
+12456,c sigma r; max risk estimate,mahalanobis distance; t sigma n trend
+12457,latest reported risk; max risk estimate,time of latest CDM; length of message history
+12458,mahalanobis distance; time of latest CDM,c sigma n; t sigma n trend
+12459,relative speed; t position covariance det,c sigma n; t sigma n
+12460,mahalanobis distance; miss distance trend,time of latest CDM; latest reported risk
+12461,latest reported risk; t position covariance det,relative speed; t sigma n
+12462,t position covariance det; c sigma n,relative speed; latest reported risk
+12463,mahalanobis distance; t position covariance det,t sigma n trend; c sigma r trend
+12464,t position covariance det; relative speed trend,latest reported risk; mahalanobis distance
+12465,c sigma n; c sigma r trend,mahalanobis distance; latest reported risk
+12466,mahalanobis distance; c sigma t,time of latest CDM; c sigma n
+12467,c sigma t; miss distance trend,time of latest CDM; c sigma n
+12468,c sigma r; max risk estimate,mahalanobis distance; latest reported risk
+12469,mahalanobis distance; length of message history,latest reported risk; max risk scaling
+12470,relative speed; c sigma r trend,mahalanobis distance; length of message history
+12472,c sigma t; mahalanobis distance,c sigma n; t sigma n
+12473,time of latest CDM; relative speed,mahalanobis distance; t sigma n trend
+12474,highest risk seen; c sigma r,mahalanobis distance; t sigma n trend
+12475,c sigma n; length of message history,t sigma n trend; t position covariance det trend
+12476,time of latest CDM; max risk estimate,t sigma n trend; t position covariance det trend
+12477,max risk estimate; time of latest CDM,latest reported risk; mahalanobis distance
+12478,max risk estimate; c sigma n,length of message history; t sigma n trend
+12479,mahalanobis distance; max risk scaling,time of latest CDM; c sigma n
+12480,mahalanobis distance; max risk estimate,latest reported risk; t position covariance det
+12481,max risk scaling; c sigma t,time of latest CDM; c sigma n
+12483,t position covariance det; c sigma r trend,t position covariance det trend; latest reported risk
+12484,c sigma t trend; c sigma r trend,latest reported risk; mahalanobis distance
+12485,c sigma n; time of latest CDM,latest reported risk; relative speed
+12486,risk trend; t position covariance det,t sigma n trend; latest reported risk
+12488,risk trend; c sigma n,latest reported risk; mahalanobis distance
+12490,c sigma n; t sigma t,mahalanobis distance; t position covariance det trend
+12491,latest reported risk; mahalanobis distance,c sigma r; c sigma t trend
+12492,c sigma n; t sigma n trend,mahalanobis distance; latest reported risk
+12494,latest reported risk; lowest risk seen,time of latest CDM; c sigma r trend
+12495,latest reported risk; max risk scaling,time of latest CDM; c sigma r trend
+12496,max risk estimate; c sigma t trend,mahalanobis distance; latest reported risk
+12497,t position covariance det; time of latest CDM,latest reported risk; risk trend
+12498,t sigma n; c sigma r trend,mahalanobis distance; relative speed
+12499,t sigma r; length of message history,mahalanobis distance; t position covariance det
+12500,t position covariance det; relative speed,latest reported risk; length of message history
+12501,c sigma r trend; max risk estimate,mahalanobis distance; t sigma n trend
+12502,t sigma n trend; c sigma r,time of latest CDM; latest reported risk
+12503,c sigma t; max risk estimate trend,time of latest CDM; mahalanobis distance
+12504,t sigma n; time of latest CDM,latest reported risk; length of message history
+12506,latest reported risk; lowest risk seen,t sigma n; c sigma r trend
+12508,relative speed; t position covariance det,latest reported risk; length of message history
+12509,length of message history; c sigma r,mahalanobis distance; latest reported risk
+12510,c sigma t; relative speed,t position covariance det; t sigma t
+12512,risk trend; t position covariance det,c sigma r trend; latest reported risk
+12513,latest reported risk; mahalanobis distance,t sigma n; relative speed
+12514,c sigma r; t position covariance det,length of message history; latest reported risk
+12515,max risk estimate; highest risk seen,time of latest CDM; mahalanobis distance
+12516,length of message history; c sigma n,latest reported risk; t sigma t
+12517,t position covariance det; c sigma r trend,mahalanobis distance; relative speed
+12518,latest reported risk; time of latest CDM,miss distance trend; c sigma r
+12519,miss distance; c sigma n trend,latest reported risk; relative speed
+12520,t position covariance det; risk trend,latest reported risk; mahalanobis distance trend
+12521,mahalanobis distance; average risk,t sigma n; length of message history
+12522,miss distance trend; max risk scaling,time of latest CDM; c sigma n
+12523,t position covariance det; time of latest CDM,latest reported risk; relative speed
+12524,t position covariance det; time of latest CDM,relative speed; latest reported risk
+12525,c sigma r trend; t sigma n trend,mahalanobis distance; relative speed
+12526,c sigma r; c sigma t,t sigma n; relative speed
+12527,c sigma t; time of latest CDM,mahalanobis distance; latest reported risk
+12528,latest reported risk; c sigma r,time of latest CDM; c sigma t trend
+12529,mahalanobis distance; c sigma r,latest reported risk; max risk estimate trend
+12530,c sigma r trend; t sigma n trend,relative speed; latest reported risk
+12531,mahalanobis distance; max risk scaling,t position covariance det; t sigma t
+12532,c sigma n; max risk estimate,mahalanobis distance; relative speed
+12533,mahalanobis distance; length of message history,t position covariance det; t sigma t
+12534,mahalanobis distance; length of message history,latest reported risk; relative speed
+12536,mahalanobis distance; latest reported risk,max risk estimate; t position covariance det
+12537,max risk estimate; length of message history,time of latest CDM; mahalanobis distance
+12538,c sigma r trend; max risk estimate,latest reported risk; risk trend
+12539,c sigma r; c sigma n,t sigma n trend; latest reported risk
+12540,latest reported risk; mahalanobis distance,c sigma r; time of latest CDM
+12541,c sigma n; c sigma t trend,mahalanobis distance; length of message history
+12542,risk trend; time of latest CDM,latest reported risk; relative speed trend
+12544,time of latest CDM; c sigma t,mahalanobis distance; relative speed
+12546,t position covariance det; length of message history,mahalanobis distance; latest reported risk
+12547,c sigma r; c sigma n,t sigma n trend; latest reported risk
+12548,risk trend; max risk estimate,mahalanobis distance; c sigma r trend
+12549,latest reported risk; max risk scaling,c sigma n trend; c position covariance det trend
+12550,risk trend; c sigma t trend,time of latest CDM; mahalanobis distance
+12551,relative speed trend; time of latest CDM,latest reported risk; max risk estimate
+12552,mahalanobis distance; t sigma n,time of latest CDM; latest reported risk
+12554,max risk estimate; c sigma t trend,latest reported risk; mahalanobis distance
+12555,latest reported risk; time of latest CDM,t sigma n trend; miss distance trend
+12556,c sigma r; c sigma n,t sigma n trend; length of message history
+12557,t position covariance det; mahalanobis distance,relative speed; t sigma n
+12558,latest reported risk; c sigma r,time of latest CDM; c sigma r trend
+12559,c sigma r trend; c sigma t trend,t sigma n trend; mahalanobis distance
+12560,time of latest CDM; c sigma r,mahalanobis distance; latest reported risk
+12561,c sigma r trend; t sigma n,t sigma n trend; latest reported risk
+12563,mahalanobis distance; max risk estimate,length of message history; latest reported risk
+12564,mahalanobis distance; length of message history,latest reported risk; c sigma r trend
+12565,t sigma n trend; c sigma n trend,time of latest CDM; mahalanobis distance
+12566,mahalanobis distance; length of message history,t sigma n trend; latest reported risk
+12567,c sigma r; c sigma t,latest reported risk; mahalanobis distance
+12568,time of latest CDM; t position covariance det,relative speed; latest reported risk
+12569,c sigma r trend; risk trend,mahalanobis distance; length of message history
+12570,c sigma t; t position covariance det,c sigma r trend; length of message history
+12571,c sigma r trend; risk trend,mahalanobis distance; latest reported risk
+12572,t position covariance det; c sigma r,latest reported risk; length of message history
+12573,time of latest CDM; relative speed,latest reported risk; length of message history
+12574,t sigma r; c sigma n,mahalanobis distance; t sigma n trend
+12577,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+12578,mahalanobis distance; relative speed,length of message history; c sigma n trend
+12579,max risk estimate; t sigma t,latest reported risk; time of latest CDM
+12580,time of latest CDM; c sigma r trend,mahalanobis distance; latest reported risk
+12581,c sigma t; c sigma r,c sigma n; mahalanobis distance
+12582,mahalanobis distance; risk trend,t position covariance det; t sigma t
+12583,c sigma r trend; relative speed,mahalanobis distance; latest reported risk
+12584,t sigma n trend; c sigma r,time of latest CDM; latest reported risk
+12585,mahalanobis distance; length of message history,max risk scaling; max risk estimate
+12586,miss distance; c sigma t trend,latest reported risk; c sigma r trend
+12588,mahalanobis distance; t position covariance det,length of message history; c sigma r trend
+12589,mahalanobis distance; c sigma t,c sigma n; latest reported risk
+12590,t position covariance det; relative speed,latest reported risk; length of message history
+12591,max risk estimate; relative speed,length of message history; latest reported risk
+12592,c sigma n; time of latest CDM,mahalanobis distance; latest reported risk
+12593,c sigma r; relative speed,t position covariance det; mahalanobis distance
+12594,c sigma r; c sigma n,mahalanobis distance; t sigma n trend
+12595,mahalanobis distance; latest reported risk,c sigma n; last change in risk
+12596,c sigma t; mahalanobis distance,t sigma n trend; latest reported risk
+12597,t sigma r; max risk scaling,time of latest CDM; mahalanobis distance
+12598,t position covariance det; max risk estimate,relative speed; length of message history
+12599,mahalanobis distance; length of message history,latest reported risk; max risk estimate
+12600,t position covariance det; c sigma r,mahalanobis distance; latest reported risk
+12601,t position covariance det; time of latest CDM,latest reported risk; risk trend
+12602,mahalanobis distance; max risk scaling,c sigma n; c sigma r trend
+12603,c sigma r; c sigma t,t sigma n trend; latest reported risk
+12604,c sigma r; relative speed,mahalanobis distance; length of message history
+12606,c sigma r trend; c sigma t trend,t sigma n; t position covariance det
+12607,mahalanobis distance; t sigma r,t sigma n trend; t sigma n
+12608,mahalanobis distance; max risk estimate,risk trend; latest reported risk
+12609,mahalanobis distance; t sigma r,time of latest CDM; t sigma t
+12610,c sigma t; c sigma r,latest reported risk; mahalanobis distance
+12611,c sigma r trend; time of latest CDM,mahalanobis distance; latest reported risk
+12612,mahalanobis distance; t sigma r,t sigma t; t sigma n trend
+12613,risk trend; mahalanobis distance trend,t sigma n; t position covariance det
+12614,mahalanobis distance; max risk scaling,t sigma r trend; t sigma n trend
+12615,mahalanobis distance; risk trend,length of message history; max risk scaling
+12616,t sigma n; c sigma r trend,mahalanobis distance; relative speed
+12617,c sigma n; t sigma t,mahalanobis distance; t position covariance det trend
+12618,mahalanobis distance; length of message history,time of latest CDM; t sigma n
+12619,mahalanobis distance; miss distance trend,latest reported risk; c sigma n
+12620,c sigma r; mahalanobis distance,t sigma n; length of message history
+12621,max risk estimate; relative speed,mahalanobis distance; length of message history
+12623,mahalanobis distance; max risk estimate,length of message history; risk trend
+12624,mahalanobis distance; t position covariance det,t sigma n; risk trend
+12625,t position covariance det; relative speed,latest reported risk; c sigma r trend
+12626,time of latest CDM; c sigma r,mahalanobis distance; latest reported risk
+12627,mahalanobis distance; c sigma r,relative speed; latest reported risk
+12628,c sigma n; relative speed,mahalanobis distance; latest reported risk
+12629,latest reported risk; t sigma r,mahalanobis distance; c sigma r trend
+12630,time of latest CDM; c sigma t trend,mahalanobis distance; latest reported risk
+12631,max risk estimate; relative speed,mahalanobis distance; latest reported risk
+12632,t sigma r; highest risk seen,length of message history; mahalanobis distance
+12634,length of message history; c sigma n,latest reported risk; t position covariance det trend
+12635,mahalanobis distance; length of message history,latest reported risk; miss distance trend
+12636,latest reported risk; max risk scaling,relative speed; t sigma n
+12637,relative speed; c sigma r trend,latest reported risk; mahalanobis distance
+12639,mahalanobis distance; length of message history,t sigma n trend; t sigma r trend
+12640,t sigma r; c sigma n,mahalanobis distance; t position covariance det
+12641,t position covariance det; t sigma n,latest reported risk; relative speed
+12642,t position covariance det; t sigma n,latest reported risk; relative speed
+12643,relative speed; c sigma n,t sigma n trend; latest reported risk
+12644,mahalanobis distance; max risk scaling,latest reported risk; t sigma t
+12645,c sigma t; c sigma r,time of latest CDM; mahalanobis distance
+12646,risk trend; length of message history,mahalanobis distance; t sigma n trend
+12647,mahalanobis distance; length of message history,c sigma r trend; t sigma t trend
+12648,mahalanobis distance; time of latest CDM,t sigma n; latest reported risk
+12649,c sigma n; miss distance trend,latest reported risk; mahalanobis distance
+12650,time of latest CDM; c sigma r trend,mahalanobis distance; latest reported risk
+12651,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12652,mahalanobis distance; c sigma r,t position covariance det; t sigma t
+12653,latest reported risk; max risk scaling,mahalanobis distance; t sigma t trend
+12655,mahalanobis distance; t position covariance det,t sigma n; relative speed
+12657,mahalanobis distance; t sigma t,t sigma n trend; length of message history
+12659,t position covariance det; risk trend,c sigma r trend; length of message history
+12660,latest reported risk; t sigma r,time of latest CDM; c sigma n
+12661,mahalanobis distance; t sigma n,length of message history; relative speed
+12662,mahalanobis distance; c sigma t,t position covariance det; t sigma t
+12663,mahalanobis distance; max risk estimate,length of message history; max risk estimate trend
+12664,mahalanobis distance; latest reported risk,c sigma n; length of message history
+12665,t position covariance det; c sigma r trend,latest reported risk; risk trend
+12667,c sigma r; relative speed,mahalanobis distance; c sigma n
+12668,c sigma t trend; t position covariance det,length of message history; latest reported risk
+12669,time of latest CDM; miss distance,length of message history; mahalanobis distance
+12670,t position covariance det; relative speed,mahalanobis distance; latest reported risk
+12671,latest reported risk; c sigma r,time of latest CDM; length of message history
+12672,t position covariance det; max risk estimate,t sigma n trend; t position covariance det trend
+12673,relative speed trend; time of latest CDM,mahalanobis distance; t sigma n trend
+12674,c sigma r; t sigma n,time of latest CDM; mahalanobis distance
+12675,mahalanobis distance; c sigma r trend,t sigma n; relative speed
+12676,max risk estimate; time of latest CDM,t sigma r trend; latest reported risk
+12677,max risk scaling; length of message history,time of latest CDM; mahalanobis distance
+12678,mahalanobis distance; risk trend,length of message history; c sigma r trend
+12679,relative speed; c sigma n,latest reported risk; t sigma n
+12680,max risk estimate; t position covariance det,mahalanobis distance; latest reported risk
+12681,c sigma n; t sigma n,mahalanobis distance; latest reported risk
+12682,mahalanobis distance; t position covariance det,t sigma n; time of latest CDM
+12683,c sigma r; t position covariance det,t sigma n; length of message history
+12684,c sigma r; risk trend,relative speed; latest reported risk
+12686,time of latest CDM; risk trend,latest reported risk; mahalanobis distance trend
+12688,latest reported risk; mahalanobis distance,relative speed; c position covariance det trend
+12689,length of message history; highest risk seen,latest reported risk; t sigma n
+12692,c sigma r trend; c sigma t trend,latest reported risk; mahalanobis distance
+12693,latest reported risk; time of latest CDM,c sigma r trend; length of message history
+12694,t sigma r; max risk estimate,mahalanobis distance; latest reported risk
+12697,miss distance; c sigma t trend,mahalanobis distance; latest reported risk
+12698,t position covariance det; time of latest CDM,mahalanobis distance; latest reported risk
+12699,c sigma t; mahalanobis distance,c sigma n; length of message history
+12700,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12701,c sigma t; c sigma r,relative speed; latest reported risk
+12702,latest reported risk; time of latest CDM,max risk scaling; last change in risk
+12703,mahalanobis distance; length of message history,c sigma n; t sigma n trend
+12705,latest reported risk; average risk,time of latest CDM; mahalanobis distance
+12706,t sigma n trend; c position covariance det,time of latest CDM; c sigma n
+12707,time of latest CDM; c sigma r trend,mahalanobis distance; latest reported risk
+12708,length of message history; max risk estimate,t position covariance det; latest reported risk
+12709,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12710,relative speed; c sigma n,length of message history; latest reported risk
+12711,c sigma n; t position covariance det,latest reported risk; mahalanobis distance
+12712,mahalanobis distance; t sigma r,latest reported risk; relative speed
+12713,t position covariance det; c sigma r trend,latest reported risk; risk trend
+12715,latest reported risk; mahalanobis distance,t sigma n trend; lowest risk seen
+12717,t position covariance det; c sigma r trend,mahalanobis distance; latest reported risk
+12719,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+12721,c sigma r trend; length of message history,t sigma n trend; mahalanobis distance
+12722,max risk estimate; time of latest CDM,latest reported risk; risk trend
+12723,latest reported risk; max risk estimate,time of latest CDM; c sigma r trend
+12724,c sigma r; mahalanobis distance,t position covariance det; t sigma t
+12725,t sigma r; max risk scaling,time of latest CDM; mahalanobis distance
+12726,latest reported risk; average risk,mahalanobis distance; t position covariance det trend
+12727,c sigma n; c sigma r,mahalanobis distance; latest reported risk
+12728,c sigma r; c sigma t,t sigma n; latest reported risk
+12729,latest reported risk; max risk estimate,c sigma r; mahalanobis distance
+12730,latest reported risk; max risk estimate,time of latest CDM; c sigma r trend
+12731,t position covariance det; time of latest CDM,latest reported risk; length of message history
+12732,mahalanobis distance; t position covariance det,length of message history; t sigma n
+12733,mahalanobis distance; length of message history,latest reported risk; relative speed
+12734,mahalanobis distance; t position covariance det,length of message history; relative speed
+12736,relative speed; relative speed trend,t sigma n trend; t position covariance det
+12737,length of message history; risk trend,time of latest CDM; latest reported risk
+12738,relative speed trend; time of latest CDM,t sigma n trend; latest reported risk
+12739,mahalanobis distance trend; c sigma n,mahalanobis distance; latest reported risk
+12740,c sigma t; length of message history,c sigma n; t sigma t
+12741,c sigma t; c sigma n,time of latest CDM; mahalanobis distance
+12742,c sigma t; time of latest CDM,mahalanobis distance; t sigma n trend
+12743,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+12744,c sigma t; c sigma r,time of latest CDM; latest reported risk
+12745,relative speed; c sigma r trend,mahalanobis distance; latest reported risk
+12746,c sigma r trend; relative speed trend,t sigma n trend; latest reported risk
+12747,c sigma r; time of latest CDM,mahalanobis distance; last change in risk
+12748,t position covariance det; mahalanobis distance trend,mahalanobis distance; relative speed
+12749,time of latest CDM; risk trend,mahalanobis distance; latest reported risk
+12750,t position covariance det; mahalanobis distance trend,latest reported risk; c sigma r trend
+12751,mahalanobis distance; c sigma t,c sigma n; latest reported risk
+12752,max risk scaling; c sigma t,time of latest CDM; mahalanobis distance
+12753,max risk scaling; c sigma r,time of latest CDM; mahalanobis distance
+12754,mahalanobis distance; latest reported risk,relative speed; miss distance trend
+12757,time of latest CDM; length of message history,mahalanobis distance; latest reported risk
+12758,relative speed; max risk estimate,mahalanobis distance; c sigma n trend
+12759,c sigma t; t position covariance det,t sigma n; c sigma n
+12760,t sigma n trend; c sigma r,time of latest CDM; latest reported risk
+12761,mahalanobis distance; mahalanobis distance trend,length of message history; relative speed
+12762,time of latest CDM; c sigma r,mahalanobis distance; latest reported risk
+12763,t position covariance det; mahalanobis distance,t sigma n; latest reported risk
+12764,mahalanobis distance; length of message history,latest reported risk; t sigma t
+12765,c sigma t; t position covariance det,length of message history; t sigma n
+12766,latest reported risk; max risk scaling,last change in risk; mahalanobis distance
+12767,latest reported risk; time of latest CDM,t sigma n trend; miss distance trend
+12768,length of message history; max risk estimate,mahalanobis distance; latest reported risk
+12769,latest reported risk; t sigma r,t sigma t trend; time of latest CDM
+12770,relative speed; t position covariance det,length of message history; c sigma r trend
+12771,max risk scaling; c sigma t,time of latest CDM; latest reported risk
+12772,t position covariance det; c sigma r trend,mahalanobis distance; relative speed
+12773,length of message history; c sigma n,latest reported risk; t position covariance det trend
+12774,c sigma r; risk trend,t position covariance det; t sigma n trend
+12775,mahalanobis distance; relative speed,length of message history; risk trend
+12776,t sigma r; time of latest CDM,t sigma n trend; mahalanobis distance
+12777,t position covariance det; c sigma t trend,t sigma n; length of message history
+12778,c sigma r; risk trend,c sigma n; latest reported risk
+12779,mahalanobis distance; t position covariance det,t sigma n; latest reported risk
+12780,max risk estimate; relative speed,length of message history; latest reported risk
+12781,max risk estimate; c sigma r trend,latest reported risk; last change in risk
+12782,latest reported risk; max risk scaling,t sigma n trend; mahalanobis distance
+12783,relative speed; time of latest CDM,length of message history; latest reported risk
+12784,c sigma r; c sigma r trend,latest reported risk; relative speed
+12785,c sigma r trend; c sigma n,latest reported risk; length of message history
+12787,t sigma r; max risk estimate,t sigma n trend; latest reported risk
+12788,max risk scaling; c sigma t,c sigma n; latest reported risk
+12789,mahalanobis distance; length of message history,latest reported risk; max risk estimate
+12790,max risk estimate; c sigma r trend,mahalanobis distance; latest reported risk
+12791,risk trend; c sigma r trend,mahalanobis distance; latest reported risk
+12792,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+12793,max risk estimate; c sigma t trend,t sigma n; latest reported risk
+12794,latest reported risk; max risk estimate,time of latest CDM; c position covariance det
+12795,t position covariance det; c sigma r,c sigma n; latest reported risk
+12796,mahalanobis distance; max risk scaling,c sigma n; latest reported risk
+12797,mahalanobis distance; max risk estimate,time of latest CDM; latest reported risk
+12798,time of latest CDM; c sigma n,t sigma n trend; t position covariance det trend
+12799,time of latest CDM; max risk estimate,t sigma n trend; mahalanobis distance
+12801,length of message history; c sigma r trend,t sigma n trend; latest reported risk
+12802,c sigma r; c sigma n,latest reported risk; mahalanobis distance
+12804,t sigma n; t sigma n trend,mahalanobis distance; latest reported risk
+12805,time of latest CDM; max risk estimate,mahalanobis distance; latest reported risk
+12806,latest reported risk; average risk,number of CDMs; mahalanobis distance
+12807,mahalanobis distance; relative speed,length of message history; c sigma r trend
+12808,relative speed; c sigma n,latest reported risk; length of message history
+12809,relative speed; max risk estimate,length of message history; t sigma n trend
+12810,c sigma r; mahalanobis distance,latest reported risk; t sigma t
+12811,length of message history; risk trend,mahalanobis distance; latest reported risk
+12812,mahalanobis distance; c sigma r,t sigma n; relative speed
+12813,t sigma r; c sigma n,t sigma n trend; latest reported risk
+12814,mahalanobis distance; length of message history,c sigma n; latest reported risk
+12815,c sigma t; max risk estimate,time of latest CDM; mahalanobis distance
+12816,c sigma r trend; c sigma t trend,latest reported risk; relative speed
+12817,c sigma r; c sigma t,time of latest CDM; mahalanobis distance
+12818,max risk estimate; t position covariance det,mahalanobis distance; t sigma n trend
+12819,risk trend; miss distance,mahalanobis distance; latest reported risk
+12820,t position covariance det; max risk estimate,latest reported risk; relative speed
+12821,max risk estimate; risk trend,mahalanobis distance; latest reported risk
+12822,time of latest CDM; length of message history,latest reported risk; max risk estimate
+12823,time of latest CDM; c sigma t,mahalanobis distance; latest reported risk
+12824,mahalanobis distance; max risk scaling,time of latest CDM; c sigma n
+12825,risk trend; c sigma r trend,mahalanobis distance; t sigma n trend
+12826,latest reported risk; mahalanobis distance,time of latest CDM; c sigma r
+12827,c sigma n; time of latest CDM,mahalanobis distance; t position covariance det trend
+12828,c sigma n; relative speed,t sigma n trend; mahalanobis distance
+12829,risk trend; relative speed,mahalanobis distance; length of message history
+12830,mahalanobis distance; c sigma r trend,t sigma n; length of message history
+12831,risk trend; mahalanobis distance trend,mahalanobis distance; latest reported risk
+12833,t sigma t; c sigma r,mahalanobis distance; latest reported risk
+12834,mahalanobis distance; max risk estimate,latest reported risk; length of message history
+12835,mahalanobis distance; max risk estimate,length of message history; latest reported risk
+12836,latest reported risk; c sigma r,mahalanobis distance; t sigma t trend
+12837,highest risk seen; t sigma r,mahalanobis distance; t sigma n trend
+12838,t position covariance det; risk trend,t sigma r trend; t sigma n trend
+12839,c sigma r trend; t position covariance det,latest reported risk; risk trend
+12840,relative speed trend; t sigma n trend,time of latest CDM; latest reported risk
+12843,relative speed; time of latest CDM,t sigma n; latest reported risk
+12844,c sigma r; c sigma n,mahalanobis distance; t sigma n trend
+12845,length of message history; t sigma n,time of latest CDM; latest reported risk
+12846,t sigma n trend; c sigma r,time of latest CDM; latest reported risk
+12847,latest reported risk; mahalanobis distance,time of latest CDM; t sigma n trend
+12848,time of latest CDM; length of message history,t sigma n trend; t position covariance det
+12849,max risk estimate; c sigma n,mahalanobis distance; t sigma n trend
+12850,c sigma r trend; t sigma r,latest reported risk; length of message history
+12851,mahalanobis distance trend; risk trend,time of latest CDM; mahalanobis distance
+12853,c sigma r trend; c sigma t trend,mahalanobis distance; latest reported risk
+12854,risk trend; mahalanobis distance trend,time of latest CDM; latest reported risk
+12855,length of message history; t sigma n trend,latest reported risk; max risk estimate
+12856,c sigma n; max risk estimate,mahalanobis distance; t position covariance det trend
+12857,c sigma n; c sigma r,mahalanobis distance; relative speed
+12858,c sigma r; mahalanobis distance,length of message history; risk trend
+12859,c sigma r; time of latest CDM,length of message history; mahalanobis distance
+12860,t sigma n trend; relative speed,latest reported risk; max risk estimate
+12861,mahalanobis distance; risk trend,length of message history; relative speed
+12862,latest reported risk; mahalanobis distance,time of latest CDM; c sigma n
+12863,mahalanobis distance; t position covariance det,t sigma n; length of message history
+12864,c sigma r; risk trend,mahalanobis distance; t sigma n trend
+12866,t sigma r; time of latest CDM,t sigma n trend; mahalanobis distance
+12867,length of message history; t sigma t,time of latest CDM; latest reported risk
+12868,c sigma n; length of message history,mahalanobis distance; latest reported risk
+12869,latest reported risk; time of latest CDM,mahalanobis distance; c sigma r
+12870,latest reported risk; max risk scaling,t sigma n trend; c sigma r trend
+12871,time of latest CDM; c sigma r trend,latest reported risk; mahalanobis distance
+12872,mahalanobis distance; length of message history,t sigma n trend; latest reported risk
+12873,time of latest CDM; c sigma r,mahalanobis distance; latest reported risk
+12874,latest reported risk; max risk scaling,time of latest CDM; t sigma t
+12875,mahalanobis distance; t sigma r,t position covariance det; t sigma t
+12876,mahalanobis distance; c sigma r,c sigma n trend; relative speed
+12877,max risk estimate; time of latest CDM,latest reported risk; length of message history
+12878,mahalanobis distance; highest risk seen,latest reported risk; t position covariance det
+12879,t position covariance det; relative speed trend,t sigma n trend; latest reported risk
+12880,t position covariance det; t sigma n,latest reported risk; relative speed
+12881,c sigma r trend; t position covariance det,latest reported risk; risk trend
+12882,t position covariance det; length of message history,mahalanobis distance; t sigma n
+12883,mahalanobis distance; time of latest CDM,latest reported risk; t position covariance det
+12884,c sigma r; t position covariance det,mahalanobis distance; latest reported risk
+12885,mahalanobis distance trend; time of latest CDM,mahalanobis distance; latest reported risk
+12886,c sigma r; length of message history,latest reported risk; mahalanobis distance
+12887,mahalanobis distance; t position covariance det,length of message history; c sigma r trend
+12888,time of latest CDM; max risk estimate,latest reported risk; t sigma r trend
+12889,time of latest CDM; c sigma r,t sigma n trend; latest reported risk
+12890,latest reported risk; c sigma r,t sigma n trend; c sigma n trend
+12891,t position covariance det; time of latest CDM,t sigma n trend; latest reported risk
+12892,time of latest CDM; length of message history,latest reported risk; risk trend
+12894,relative speed trend; time of latest CDM,mahalanobis distance; latest reported risk
+12895,t position covariance det; max risk estimate,t sigma n; latest reported risk
+12896,t sigma n; c sigma r trend,latest reported risk; length of message history
+12897,latest reported risk; c sigma r,max risk scaling trend; t sigma n
+12898,time of latest CDM; c sigma t,c sigma r trend; length of message history
+12899,mahalanobis distance; highest risk seen,time of latest CDM; t sigma n trend
+12900,mahalanobis distance; max risk estimate,t sigma n trend; c sigma n trend
+12901,t position covariance det; miss distance,mahalanobis distance; length of message history
+12902,c sigma r trend; c sigma t trend,mahalanobis distance; latest reported risk
+12903,max risk estimate; relative speed,t sigma n; length of message history
+12904,c sigma r; length of message history,t sigma n; latest reported risk
+12906,relative speed; c sigma r,time of latest CDM; mahalanobis distance
+12907,latest reported risk; mahalanobis distance,c sigma r; time of latest CDM
+12908,mahalanobis distance; time of latest CDM,risk trend; relative speed
+12909,t position covariance det; miss distance,latest reported risk; mahalanobis distance
+12910,mahalanobis distance; c sigma t,t position covariance det; t sigma t
+12911,risk trend; c sigma t trend,time of latest CDM; mahalanobis distance
+12912,time of latest CDM; length of message history,t sigma n; latest reported risk
+12913,mahalanobis distance; t sigma r,latest reported risk; t sigma t
+12915,risk trend; relative speed,latest reported risk; mahalanobis distance
+12916,max risk estimate; relative speed,t position covariance det trend; latest reported risk
+12917,latest reported risk; max risk estimate,time of latest CDM; length of message history
+12918,highest risk seen; c sigma t,mahalanobis distance; latest reported risk
+12919,latest reported risk; time of latest CDM,length of message history; mahalanobis distance
+12920,relative speed; c sigma n,latest reported risk; mahalanobis distance
+12921,c sigma r trend; c sigma t trend,latest reported risk; t sigma n
+12922,length of message history; risk trend,time of latest CDM; latest reported risk
+12923,t position covariance det; t sigma n,mahalanobis distance; relative speed
+12924,t position covariance det; t sigma n trend,time of latest CDM; latest reported risk
+12925,c sigma n; c sigma r trend,latest reported risk; risk trend
+12926,c sigma t; c sigma r,latest reported risk; length of message history
+12927,mahalanobis distance; risk trend,t sigma n; t position covariance det
+12928,mahalanobis distance; max risk estimate,relative speed; length of message history
+12929,c sigma n; t sigma r,latest reported risk; mahalanobis distance
+12930,c sigma r trend; relative speed,length of message history; mahalanobis distance
+12931,t sigma n trend; mahalanobis distance trend,time of latest CDM; mahalanobis distance
+12932,mahalanobis distance; t position covariance det,c sigma n; c sigma r trend
+12933,c sigma n; length of message history,t sigma n trend; t position covariance det
+12934,c sigma t; max risk scaling,c sigma n; t sigma n
+12935,mahalanobis distance; c sigma t,c sigma n; latest reported risk
+12936,time of latest CDM; c sigma t trend,mahalanobis distance; latest reported risk
+12937,max risk scaling; c sigma r,mahalanobis distance; max risk estimate
+12938,time of latest CDM; relative speed,latest reported risk; mahalanobis distance
+12939,mahalanobis distance; max risk scaling,t position covariance det; t sigma t
+12940,max risk estimate; relative speed,latest reported risk; risk trend
+12941,relative speed trend; c sigma r trend,latest reported risk; max risk estimate
+12942,length of message history; risk trend,t sigma n trend; mahalanobis distance
+12943,t position covariance det; time of latest CDM,latest reported risk; length of message history
+12944,relative speed trend; t sigma r,t sigma n trend; latest reported risk
+12945,relative speed; c sigma n,latest reported risk; length of message history
+12946,mahalanobis distance; t position covariance det,t sigma n trend; latest reported risk
+12947,mahalanobis distance; time of latest CDM,c sigma n; c sigma r trend
+12948,max risk scaling; mahalanobis distance,time of latest CDM; c sigma n
+12949,latest reported risk; time of latest CDM,average risk; relative speed trend
+12950,time of latest CDM; mahalanobis distance trend,length of message history; latest reported risk
+12951,c sigma r; relative speed,c sigma n; length of message history
+12952,risk trend; c sigma r trend,mahalanobis distance; latest reported risk
+12954,time of latest CDM; c sigma t,latest reported risk; mahalanobis distance
+12955,mahalanobis distance; max risk scaling,relative speed; t sigma n
+12958,time of latest CDM; c sigma t,mahalanobis distance; latest reported risk
+12959,time of latest CDM; c sigma r trend,latest reported risk; mahalanobis distance
+12960,c sigma n; risk trend,t position covariance det; mahalanobis distance
+12961,latest reported risk; c sigma r,time of latest CDM; length of message history
+12963,c sigma r; max risk estimate,t sigma n; length of message history
+12964,c sigma r; mahalanobis distance trend,mahalanobis distance; latest reported risk
+12965,mahalanobis distance; length of message history,t sigma n trend; relative speed
+12966,max risk estimate; c sigma r trend,length of message history; latest reported risk
+12968,t sigma n trend; length of message history,time of latest CDM; latest reported risk
+12970,time of latest CDM; mahalanobis distance,t sigma n; length of message history
+12971,relative speed; t position covariance det,t sigma n; latest reported risk
+12973,t position covariance det; c sigma r,length of message history; c sigma r trend
+12974,latest reported risk; max risk scaling,relative speed; length of message history
+12975,t position covariance det; c sigma r trend,t sigma n trend; latest reported risk
+12976,t position covariance det; time of latest CDM,latest reported risk; mahalanobis distance
+12977,c sigma t; mahalanobis distance,t position covariance det; c sigma n
+12978,max risk estimate; mahalanobis distance,relative speed; length of message history
+12979,latest reported risk; mahalanobis distance,relative speed trend; time of latest CDM
+12980,c sigma r; t sigma n trend,c sigma n; mahalanobis distance
+12981,mahalanobis distance; c sigma t,c sigma n; length of message history
+12982,relative speed; t sigma n trend,length of message history; c sigma r trend
+12983,time of latest CDM; risk trend,latest reported risk; length of message history
+12984,c sigma t; length of message history,c sigma n; t sigma t
+12985,mahalanobis distance; length of message history,t sigma n trend; t position covariance det
+12986,mahalanobis distance; t position covariance det,length of message history; c sigma n
+12987,time of latest CDM; risk trend,latest reported risk; c sigma r trend
+12988,c sigma n; t sigma n,mahalanobis distance; length of message history
+12989,relative speed trend; c sigma n,relative speed; latest reported risk
+12990,t position covariance det; relative speed,latest reported risk; t sigma n
+12991,c sigma r trend; t position covariance det,latest reported risk; mahalanobis distance
+12992,mahalanobis distance; latest reported risk,c sigma n; length of message history
+12993,c sigma r; time of latest CDM,mahalanobis distance; t sigma n trend
+12994,mahalanobis distance; t sigma r,t sigma r trend; latest reported risk
+12995,latest reported risk; time of latest CDM,t sigma n trend; mahalanobis distance
+12997,t sigma r; length of message history,latest reported risk; mahalanobis distance
+12998,length of message history; mahalanobis distance trend,mahalanobis distance; latest reported risk
+12999,c sigma r; mahalanobis distance,t sigma n; length of message history
+13000,t sigma r; time of latest CDM,mahalanobis distance; t sigma n trend
+13001,max risk estimate; t position covariance det,latest reported risk; mahalanobis distance
+13002,c sigma r trend; time of latest CDM,t sigma n trend; length of message history
+13003,c sigma r trend; time of latest CDM,mahalanobis distance; t sigma n trend
+13004,mahalanobis distance; t sigma n,relative speed; risk trend
+13005,mahalanobis distance; c sigma t,length of message history; relative speed
+13006,mahalanobis distance; c sigma r,t sigma n; latest reported risk
+13007,c sigma r trend; max risk estimate,relative speed; t sigma n trend
+13008,t position covariance det; c sigma r trend,latest reported risk; relative speed
+13009,length of message history; max risk estimate,latest reported risk; relative speed
+13010,mahalanobis distance; c sigma t,time of latest CDM; t sigma n
+13011,mahalanobis distance; length of message history,latest reported risk; relative speed
+13012,mahalanobis distance; length of message history,latest reported risk; max risk estimate trend
+13013,risk trend; t position covariance det,length of message history; c sigma r trend
+13014,latest reported risk; mahalanobis distance,time of latest CDM; relative speed trend
+13016,mahalanobis distance trend; time of latest CDM,mahalanobis distance; latest reported risk
+13017,c sigma n; c sigma r,length of message history; latest reported risk
+13018,mahalanobis distance; t position covariance det,t sigma n; length of message history
+13019,relative speed; c sigma r,latest reported risk; t sigma n
+13020,t position covariance det; c sigma r trend,latest reported risk; length of message history
+13021,mahalanobis distance; miss distance trend,latest reported risk; t sigma t
+13023,time of latest CDM; relative speed,mahalanobis distance; c sigma r trend
+13024,c sigma t; mahalanobis distance,c sigma n; relative speed
+13025,t position covariance det; time of latest CDM,t sigma n trend; latest reported risk
+13026,max risk estimate; time of latest CDM,length of message history; mahalanobis distance
+13027,mahalanobis distance; max risk scaling,time of latest CDM; c sigma n trend
+13028,t position covariance det; c sigma r trend,latest reported risk; risk trend
+13029,c sigma r; time of latest CDM,t sigma n trend; length of message history
+13030,latest reported risk; c sigma r,mahalanobis distance; length of message history
+13031,c sigma r; length of message history,latest reported risk; mahalanobis distance
+13032,t position covariance det; risk trend,time of latest CDM; t sigma n trend
+13033,length of message history; relative speed trend,mahalanobis distance; t sigma n trend
+13034,c sigma r trend; time of latest CDM,latest reported risk; length of message history
+13036,max risk estimate; relative speed,length of message history; mahalanobis distance
+13037,c sigma r; c sigma r trend,latest reported risk; mahalanobis distance
+13038,max risk estimate; mahalanobis distance,t sigma n; length of message history
+13039,latest reported risk; mahalanobis distance,time of latest CDM; t sigma n trend
+13040,risk trend; length of message history,latest reported risk; mahalanobis distance
+13041,latest reported risk; time of latest CDM,relative speed trend; t sigma t
+13043,mahalanobis distance; length of message history,time of latest CDM; latest reported risk
+13044,c sigma r; t position covariance det,latest reported risk; t sigma n
+13045,c sigma r trend; max risk estimate,latest reported risk; mahalanobis distance
+13046,length of message history; c position covariance det trend,time of latest CDM; latest reported risk
+13047,mahalanobis distance; latest reported risk,length of message history; miss distance
+13048,time of latest CDM; risk trend,mahalanobis distance; latest reported risk
+13049,t position covariance det; time of latest CDM,mahalanobis distance; c sigma r trend
+13050,time of latest CDM; c sigma r trend,latest reported risk; risk trend
+13051,time of latest CDM; length of message history,mahalanobis distance; t sigma n trend
+13052,relative speed trend; max risk estimate,latest reported risk; mahalanobis distance
+13053,t sigma r; risk trend,latest reported risk; mahalanobis distance
+13054,t sigma r; risk trend,time of latest CDM; mahalanobis distance
+13055,t position covariance det; c sigma n,latest reported risk; mahalanobis distance trend
+13056,latest reported risk; c sigma r,time of latest CDM; relative speed
+13057,latest reported risk; c sigma r trend,length of message history; t sigma t trend
+13058,latest reported risk; time of latest CDM,length of message history; mahalanobis distance
+13059,length of message history; t sigma n trend,latest reported risk; mahalanobis distance
+13060,latest reported risk; mahalanobis distance,c sigma n; t sigma n
+13061,risk trend; relative speed,latest reported risk; mahalanobis distance
+13062,c sigma r; time of latest CDM,latest reported risk; c sigma r trend
+13063,mahalanobis distance; max risk estimate,t sigma n; relative speed
+13064,mahalanobis distance; c sigma t,t sigma n; latest reported risk
+13065,mahalanobis distance; c sigma n,latest reported risk; c sigma n trend
+13066,mahalanobis distance; t sigma n,length of message history; c sigma r trend
+13067,latest reported risk; average risk,c sigma r trend; miss distance
+13068,time of latest CDM; t position covariance det,latest reported risk; length of message history
+13069,latest reported risk; c sigma r,t sigma n; time of latest CDM
+13070,t position covariance det; mahalanobis distance trend,length of message history; relative speed
+13071,relative speed; c sigma t trend,mahalanobis distance; length of message history
+13072,c sigma n; c sigma r trend,t sigma n; latest reported risk
+13073,c sigma n; c sigma r trend,mahalanobis distance; latest reported risk
+13074,c sigma r; c sigma t,latest reported risk; mahalanobis distance
+13075,c sigma r trend; time of latest CDM,mahalanobis distance; t sigma n trend
+13076,relative speed; mahalanobis distance,latest reported risk; last change in risk
+13077,risk trend; t position covariance det,latest reported risk; max risk estimate
+13078,highest risk seen; c sigma r,c sigma n; latest reported risk
+13079,length of message history; c sigma r trend,t sigma n trend; mahalanobis distance
+13080,time of latest CDM; relative speed,mahalanobis distance; latest reported risk
+13081,max risk estimate; relative speed,latest reported risk; c sigma r trend
+13082,mahalanobis distance; t position covariance det,length of message history; latest reported risk
+13083,c sigma n; t sigma t,mahalanobis distance; t position covariance det trend
+13084,time of latest CDM; t sigma r,mahalanobis distance; latest reported risk
+13085,max risk estimate; risk trend,mahalanobis distance; t position covariance det
+13086,c sigma r trend; relative speed,mahalanobis distance; length of message history
+13087,t position covariance det; risk trend,relative speed; c sigma r trend
+13088,length of message history; max risk estimate,mahalanobis distance; latest reported risk
+13089,c sigma r trend; c sigma t trend,latest reported risk; length of message history
+13090,time of latest CDM; c sigma t,c sigma n; latest reported risk
+13091,relative speed trend; time of latest CDM,t sigma n; latest reported risk
+13092,c sigma r; time of latest CDM,latest reported risk; mahalanobis distance
+13093,mahalanobis distance; length of message history,relative speed; last change in risk
+13094,relative speed; time of latest CDM,mahalanobis distance; latest reported risk
+13095,t position covariance det; relative speed trend,length of message history; c sigma r trend
+13096,max risk estimate; c sigma n,mahalanobis distance; latest reported risk
+13097,mahalanobis distance; t sigma t,length of message history; max risk estimate trend
+13098,mahalanobis distance; risk trend,t sigma n trend; length of message history
+13099,max risk scaling; c sigma r trend,mahalanobis distance; time of latest CDM
+13101,max risk estimate; length of message history,mahalanobis distance; c sigma n trend
+13102,relative speed trend; c sigma r,latest reported risk; mahalanobis distance
+13103,max risk estimate; time of latest CDM,mahalanobis distance; length of message history
+13104,time of latest CDM; max risk estimate,mahalanobis distance; latest reported risk
+13105,t position covariance det; c sigma n,latest reported risk; mahalanobis distance
+13106,t sigma n trend; c sigma r,mahalanobis distance; latest reported risk
+13108,time of latest CDM; c sigma r trend,latest reported risk; mahalanobis distance
+13110,c sigma r; time of latest CDM,latest reported risk; length of message history
+13111,relative speed trend; risk trend,latest reported risk; max risk estimate
+13112,mahalanobis distance; length of message history,c sigma n; latest reported risk
+13113,max risk estimate; relative speed,mahalanobis distance; latest reported risk
+13114,t position covariance det; c sigma r,mahalanobis distance; t sigma n
+13116,t sigma n; t sigma n trend,mahalanobis distance; latest reported risk
+13117,t position covariance det; mahalanobis distance trend,mahalanobis distance; relative speed
+13118,c sigma r; t sigma r,t sigma n trend; latest reported risk
+13120,time of latest CDM; t sigma n,latest reported risk; mahalanobis distance
+13121,c sigma r; time of latest CDM,relative speed; latest reported risk
+13122,c sigma r; time of latest CDM,mahalanobis distance; latest reported risk
+13123,relative speed trend; t position covariance det,mahalanobis distance; t sigma n trend
+13124,t position covariance det; t sigma n trend,latest reported risk; length of message history
+13125,mahalanobis distance; length of message history,t sigma n; t position covariance det
+13126,mahalanobis distance; c sigma n,length of message history; relative speed
+13127,mahalanobis distance; relative speed trend,t position covariance det; t sigma t
+13128,c sigma r trend; relative speed,latest reported risk; risk trend
+13129,mahalanobis distance; max risk scaling,latest reported risk; t position covariance det
+13130,c sigma t; c sigma r,time of latest CDM; latest reported risk
+13131,c sigma r; length of message history,latest reported risk; relative speed
+13132,risk trend; c sigma t trend,latest reported risk; length of message history
+13133,t position covariance det; c sigma r trend,t sigma n trend; relative speed
+13134,relative speed; time of latest CDM,length of message history; latest reported risk
+13135,mahalanobis distance; max risk estimate,length of message history; latest reported risk
+13136,mahalanobis distance; max risk estimate,t sigma t; latest reported risk
+13137,relative speed; max risk estimate,t sigma n trend; mahalanobis distance
+13138,t position covariance det; mahalanobis distance trend,latest reported risk; mahalanobis distance
+13139,t position covariance det; c sigma r trend,latest reported risk; length of message history
+13140,risk trend; max risk estimate,t sigma n; latest reported risk
+13142,c sigma r trend; c sigma t trend,t sigma n trend; latest reported risk
+13143,time of latest CDM; t position covariance det,mahalanobis distance; latest reported risk
+13144,time of latest CDM; mahalanobis distance trend,mahalanobis distance; latest reported risk
+13145,c sigma r trend; risk trend,mahalanobis distance; relative speed
+13146,latest reported risk; time of latest CDM,c sigma n; c sigma r trend
+13147,time of latest CDM; c sigma r,latest reported risk; length of message history
+13148,mahalanobis distance; c sigma r trend,length of message history; latest reported risk
+13149,mahalanobis distance; c sigma n,time of latest CDM; latest reported risk
+13150,relative speed trend; length of message history,mahalanobis distance; latest reported risk
+13151,relative speed trend; t sigma n,mahalanobis distance; latest reported risk
+13152,c sigma t trend; c sigma r trend,mahalanobis distance; latest reported risk
+13153,t position covariance det; time of latest CDM,length of message history; t sigma n trend
