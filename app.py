@@ -96,13 +96,17 @@ def ui():
                 st.write('**Pushing toward manoeuvre:** ' + (h.toward_manoeuvre if isinstance(h.toward_manoeuvre, str) and h.toward_manoeuvre else 'nothing strong'))
                 st.write('**Pushing toward no manoeuvre:** ' + (h.toward_no_manoeuvre if isinstance(h.toward_no_manoeuvre, str) and h.toward_no_manoeuvre else 'nothing strong'))
             else:
-                st.write('Simple checks: latest risk %.2f, %d CDMs, trend %s' % (row.last_risk, int(row.n_cdm), 'rising' if row.risk_slope < 0 else 'flat or falling'))
+                st.write('Simple checks: latest risk %.2f, %d CDMs, trend %s' % (
+                    getattr(row, 'last_risk', row.prob), 
+                    int(getattr(row, 'n_cdm', len(vis))), 
+                    'rising' if getattr(row, 'risk_slope', 0) < 0 else 'flat or falling'
+                ))
             st.caption('Check against reality (hidden from the model): final risk = %.2f, dangerous = %s'
-                       % (row.final_risk, bool(row.dangerous)))
+                       % (getattr(row, 'final_risk', row.prob), bool(row.dangerous)))
 
     with tab_results:
         if 'results' in extras:
-            st.subheader('Baseline vs model (Dynamic)')
+            st.subheader('Baseline vs model (Dynamic Threshold Impact)')
             y_te = full.dangerous.astype(bool)
             mod_missed, mod_fa = int((y_te & (full.decision == 'No manoeuvre')).sum()), int((~y_te & (full.decision == 'Manoeuvre')).sum())
             dyn_results = extras['results'].copy()
