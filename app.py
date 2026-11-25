@@ -7,9 +7,18 @@ Install: pip install streamlit pandas numpy
 import os
 import numpy as np
 import pandas as pd
+import streamlit as st
 
 CUTOFF = 2.0
 ORDER = {'Manoeuvre': 0, 'Defer': 1, 'No manoeuvre': 2}
+
+
+@st.cache_data
+def load():
+    raw = pd.read_csv('val_predictions.csv', usecols=['event_id', 'time_to_tca', 'risk'])
+    pred = pd.read_csv('predictions.csv')
+    extras = {k: pd.read_csv(k + '.csv') for k in ('results', 'calibration', 'feature_importance', 'explanations', 'val_predictions', 'tradeoff') if os.path.exists(k + '.csv')}
+    return raw, pred, extras
 
 
 def decisions(pred, c_miss, val=None):
@@ -38,15 +47,7 @@ def outcome(pred):
 
 
 def ui():
-    import streamlit as st
     st.set_page_config(page_title='SW-5 Collision Risk', layout='wide')
-
-    @st.cache_data
-    def load():
-       raw = pd.read_csv('val_predictions.csv', usecols=['event_id', 'time_to_tca', 'risk'])
-    pred = pd.read_csv('predictions.csv')
-    extras = {k: pd.read_csv(k + '.csv') for k in ('results', 'calibration', 'feature_importance', 'explanations', 'val_predictions', 'tradeoff') if os.path.exists(k + '.csv')}
-    return raw, pred, extras
 
     raw, pred0, extras = load()
     st.title('Satellite Collision Risk Predictor')
@@ -103,13 +104,9 @@ def ui():
     with tab_results:
         if 'results' in extras:
             st.subheader('Baseline vs model (Dynamic)')
-            # Dynamically compute model performance at current sidebar threshold thr
             y_te = full.dangerous.astype(bool)
             mod_missed, mod_fa = int((y_te & (full.decision == 'No manoeuvre')).sum()), int((~y_te & (full.decision == 'Manoeuvre')).sum())
-            
-            # Build dynamic comparison table matching current slider state
             dyn_results = extras['results'].copy()
-            # Update the model row with live slider metrics
             dyn_results.loc[dyn_results['Method'].str.contains('Our model'), ['Missed', 'False alarms']] = [mod_missed, mod_fa]
             st.dataframe(dyn_results, hide_index=True)
         y = full.dangerous.astype(bool)
