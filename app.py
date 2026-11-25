@@ -43,10 +43,10 @@ def ui():
 
     @st.cache_data
     def load():
-        raw = pd.read_csv('train_data.csv', usecols=['event_id', 'time_to_tca', 'risk'])
-        pred = pd.read_csv('predictions.csv')
-        extras = {k: pd.read_csv(k + '.csv') for k in ('results', 'calibration', 'feature_importance', 'explanations', 'val_predictions', 'tradeoff') if os.path.exists(k + '.csv')}
-        return raw, pred, extras
+       raw = pd.read_csv('val_predictions.csv', usecols=['event_id', 'time_to_tca', 'risk'])
+    pred = pd.read_csv('predictions.csv')
+    extras = {k: pd.read_csv(k + '.csv') for k in ('results', 'calibration', 'feature_importance', 'explanations', 'val_predictions', 'tradeoff') if os.path.exists(k + '.csv')}
+    return raw, pred, extras
 
     raw, pred0, extras = load()
     st.title('Satellite Collision Risk Predictor')
