@@ -1,15 +1,15 @@
-# 🛰️ SW-5 Satellite Collision Risk Predictor
+# SW-5 Satellite Collision Risk Predictor
 ### **Team DevX | Star Forge**
 > **"Know when to act, and when to wait."**
 
 ---
 
-## ⚡ Overview
+## Overview
 Satellite operators receive Conjunction Data Messages (CDMs) and must decide days ahead whether to perform a collision avoidance manoeuvre. Because most tracking warnings are harmless false alarms, dangerous conjunction events are exceptionally rare and noisy. **SW-5** is an intelligent, cost-aware decision framework built to maximize operator confidence—minimizing unnecessary fuel-burning manoeuvres while ensuring zero missed high-risk encounters.
 
 ---
 
-## 🚀 Key Features & Approach
+## Key Features & Approach
 * **Zero Data Leakage:** Restricts analysis strictly to CDMs received **2+ days before closest approach (TCA)** to ensure realistic operational foresight.
 * **Advanced Feature Engineering:** Extracts temporal trends from event message histories, tracking latest risk, trajectory trends, miss distance shifts, covariance uncertainties, and total CDM volume.
 * **Cost-Aware Decision Engine:** Optimizes operational costs by classifying events into three distinct actions: **Manoeuvre**, **Defer** (wait for next CDM update), or **No Manoeuvre**.
@@ -17,9 +17,9 @@ Satellite operators receive Conjunction Data Messages (CDMs) and must decide day
 
 ---
 
-## 📊 Performance Results (Test Events)
+## Performance Results (Test Events)
 
-Evaluated on the official ESA Kelvins challenge dataset split (1,792 unique event IDs):
+Evaluated on the official ESA Kelvins challenge dataset test split (1,792 unique event IDs):
 
 | Method | Missed Dangerous Events | False Alarms | PR-AUC |
 | :--- | :---: | :---: | :---: |
@@ -29,13 +29,14 @@ Evaluated on the official ESA Kelvins challenge dataset split (1,792 unique even
 
 ---
 
-## 🌐 Links
-* **Live Demo:** [View Streamlit App](YOUR_LIVE_LINK_HERE) *(Real ESA test-set CDM stream preview)*
-* **Video Walkthrough:** [Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+## Links & Live Demos
+* **Primary Dashboard (Streamlit — Trained LightGBM Model):** [Launch Streamlit App](https://vt42vb6nfjn763zzrzkdhc.streamlit.app/) *(Evaluates the 1,792-event test split with trained model predictions)*
+* **Interactive CDM Explorer (Netlify — Rule-Based Preview):** [Launch Netlify Preview](https://public-link-b658e9.netlify.app) *(Interactive threshold simulator across the full 2,167-event ESA CDM stream)*
+* **Video Walkthrough:** [Watch Demo on YouTube](https://youtu.be/DuBK6UE2I0U?si=QHIbYXgS-O9bwux-)
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository and set up a virtual environment:**
    ```bash
@@ -44,3 +45,16 @@ Evaluated on the official ESA Kelvins challenge dataset split (1,792 unique even
    python -m venv .venv
    # On Windows PowerShell:
    .venv\Scripts\Activate.ps1
+
+
+
+
+
+
+
+
+
+
+
+
+   
